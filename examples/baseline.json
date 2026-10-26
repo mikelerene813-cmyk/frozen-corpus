@@ -1,0 +1,1450 @@
+{
+ "meta": {
+  "frozen_now": "2026-03-14T09:00:00",
+  "n_records": 240,
+  "n_rows": 240,
+  "seed": 42
+ },
+ "records": {
+  "T-4000": {
+   "age_h": 43.7,
+   "breached": true,
+   "score": 4.5,
+   "why": "Past SLA by 35.7 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4001": {
+   "age_h": 18.14,
+   "breached": true,
+   "score": 3.401,
+   "why": "Past SLA by 10.1 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4002": {
+   "age_h": 9.49,
+   "breached": true,
+   "score": 4.982,
+   "why": "Past SLA by 5.5 h. Business account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4003": {
+   "age_h": 57.36,
+   "breached": true,
+   "score": 4.5,
+   "why": "Past SLA by 49.4 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4004": {
+   "age_h": 60.01,
+   "breached": true,
+   "score": 9.0,
+   "why": "Past SLA by 52.0 h. Enterprise account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4005": {
+   "age_h": 84.5,
+   "breached": true,
+   "score": 4.5,
+   "why": "Past SLA by 60.5 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4006": {
+   "age_h": 42.57,
+   "breached": true,
+   "score": 2.661,
+   "why": "Past SLA by 18.6 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4007": {
+   "age_h": 48.23,
+   "breached": true,
+   "score": 3.014,
+   "why": "Past SLA by 24.2 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4008": {
+   "age_h": 39.35,
+   "breached": true,
+   "score": 2.459,
+   "why": "Past SLA by 15.4 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4009": {
+   "age_h": 72.89,
+   "breached": true,
+   "score": 9.0,
+   "why": "Past SLA by 68.9 h. Enterprise account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4010": {
+   "age_h": 38.74,
+   "breached": true,
+   "score": 6.3,
+   "why": "Past SLA by 34.7 h. Business account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4011": {
+   "age_h": 81.42,
+   "breached": true,
+   "score": 6.3,
+   "why": "Past SLA by 77.4 h. Business account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4012": {
+   "age_h": 45.38,
+   "breached": true,
+   "score": 4.5,
+   "why": "Past SLA by 37.4 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4013": {
+   "age_h": 74.85,
+   "breached": true,
+   "score": 6.3,
+   "why": "Past SLA by 50.8 h. Business account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4014": {
+   "age_h": 32.26,
+   "breached": true,
+   "score": 4.5,
+   "why": "Past SLA by 28.3 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4015": {
+   "age_h": 13.35,
+   "breached": false,
+   "score": 0.556,
+   "why": "Inside the window with room. Nothing to do yet."
+  },
+  "T-4016": {
+   "age_h": 76.62,
+   "breached": true,
+   "score": 4.5,
+   "why": "Past SLA by 68.6 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4017": {
+   "age_h": 43.23,
+   "breached": true,
+   "score": 4.5,
+   "why": "Past SLA by 35.2 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4018": {
+   "age_h": 40.54,
+   "breached": false,
+   "score": 1.182,
+   "why": "7.5 h left on the clock. Still recoverable without a call."
+  },
+  "T-4019": {
+   "age_h": 95.05,
+   "breached": true,
+   "score": 6.3,
+   "why": "Past SLA by 71.0 h. Business account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4020": {
+   "age_h": 95.8,
+   "breached": true,
+   "score": 4.191,
+   "why": "Past SLA by 47.8 h. Business account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4021": {
+   "age_h": 95.6,
+   "breached": true,
+   "score": 9.0,
+   "why": "Past SLA by 87.6 h. Enterprise account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4022": {
+   "age_h": 20.86,
+   "breached": false,
+   "score": 1.738,
+   "why": "3.1 h left on the clock. Still recoverable without a call."
+  },
+  "T-4023": {
+   "age_h": 79.79,
+   "breached": true,
+   "score": 9.0,
+   "why": "Past SLA by 75.8 h. Enterprise account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4024": {
+   "age_h": 20.43,
+   "breached": false,
+   "score": 1.702,
+   "why": "3.6 h left on the clock. Still recoverable without a call."
+  },
+  "T-4025": {
+   "age_h": 36.0,
+   "breached": false,
+   "score": 1.05,
+   "why": "Inside the window with room. Nothing to do yet."
+  },
+  "T-4026": {
+   "age_h": 79.99,
+   "breached": true,
+   "score": 4.5,
+   "why": "Past SLA by 72.0 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4027": {
+   "age_h": 60.4,
+   "breached": true,
+   "score": 4.5,
+   "why": "Past SLA by 52.4 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4028": {
+   "age_h": 69.77,
+   "breached": true,
+   "score": 4.5,
+   "why": "Past SLA by 61.8 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4029": {
+   "age_h": 66.11,
+   "breached": true,
+   "score": 4.5,
+   "why": "Past SLA by 62.1 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4030": {
+   "age_h": 40.75,
+   "breached": true,
+   "score": 3.566,
+   "why": "Past SLA by 16.8 h. Business account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4031": {
+   "age_h": 23.27,
+   "breached": false,
+   "score": 0.679,
+   "why": "Inside the window with room. Nothing to do yet."
+  },
+  "T-4032": {
+   "age_h": 28.52,
+   "breached": true,
+   "score": 4.5,
+   "why": "Past SLA by 24.5 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4033": {
+   "age_h": 12.57,
+   "breached": true,
+   "score": 4.5,
+   "why": "Past SLA by 8.6 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4034": {
+   "age_h": 27.26,
+   "breached": true,
+   "score": 4.5,
+   "why": "Past SLA by 23.3 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4035": {
+   "age_h": 26.21,
+   "breached": true,
+   "score": 6.3,
+   "why": "Past SLA by 22.2 h. Business account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4036": {
+   "age_h": 17.33,
+   "breached": true,
+   "score": 3.249,
+   "why": "Past SLA by 9.3 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4037": {
+   "age_h": 9.3,
+   "breached": false,
+   "score": 0.388,
+   "why": "Inside the window with room. Nothing to do yet."
+  },
+  "T-4038": {
+   "age_h": 63.24,
+   "breached": true,
+   "score": 4.5,
+   "why": "Past SLA by 59.2 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4039": {
+   "age_h": 45.84,
+   "breached": true,
+   "score": 4.5,
+   "why": "Past SLA by 41.8 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4040": {
+   "age_h": 2.53,
+   "breached": false,
+   "score": 0.105,
+   "why": "Inside the window with room. Nothing to do yet."
+  },
+  "T-4041": {
+   "age_h": 30.96,
+   "breached": true,
+   "score": 3.87,
+   "why": "Past SLA by 7.0 h. Enterprise account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4042": {
+   "age_h": 70.88,
+   "breached": true,
+   "score": 4.43,
+   "why": "Past SLA by 46.9 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4043": {
+   "age_h": 34.1,
+   "breached": false,
+   "score": 0.71,
+   "why": "Inside the window with room. Nothing to do yet."
+  },
+  "T-4044": {
+   "age_h": 90.67,
+   "breached": true,
+   "score": 4.5,
+   "why": "Past SLA by 86.7 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4045": {
+   "age_h": 60.18,
+   "breached": true,
+   "score": 6.3,
+   "why": "Past SLA by 56.2 h. Business account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4046": {
+   "age_h": 58.65,
+   "breached": true,
+   "score": 9.0,
+   "why": "Past SLA by 54.6 h. Enterprise account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4047": {
+   "age_h": 95.36,
+   "breached": true,
+   "score": 2.98,
+   "why": "Past SLA by 47.4 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4048": {
+   "age_h": 89.72,
+   "breached": true,
+   "score": 4.5,
+   "why": "Past SLA by 85.7 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4049": {
+   "age_h": 50.04,
+   "breached": true,
+   "score": 6.3,
+   "why": "Past SLA by 46.0 h. Business account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4050": {
+   "age_h": 46.43,
+   "breached": true,
+   "score": 4.5,
+   "why": "Past SLA by 42.4 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4051": {
+   "age_h": 47.99,
+   "breached": true,
+   "score": 6.3,
+   "why": "Past SLA by 44.0 h. Business account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4052": {
+   "age_h": 35.64,
+   "breached": true,
+   "score": 4.5,
+   "why": "Past SLA by 27.6 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4053": {
+   "age_h": 50.01,
+   "breached": true,
+   "score": 1.563,
+   "why": "Past SLA by 2.0 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4054": {
+   "age_h": 48.09,
+   "breached": true,
+   "score": 4.208,
+   "why": "Past SLA by 24.1 h. Business account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4055": {
+   "age_h": 19.46,
+   "breached": true,
+   "score": 3.649,
+   "why": "Past SLA by 11.5 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4056": {
+   "age_h": 84.57,
+   "breached": true,
+   "score": 6.3,
+   "why": "Past SLA by 60.6 h. Business account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4057": {
+   "age_h": 20.54,
+   "breached": true,
+   "score": 4.5,
+   "why": "Past SLA by 16.5 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4058": {
+   "age_h": 68.42,
+   "breached": true,
+   "score": 4.5,
+   "why": "Past SLA by 64.4 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4059": {
+   "age_h": 43.54,
+   "breached": false,
+   "score": 0.907,
+   "why": "4.5 h left on the clock. Still recoverable without a call."
+  },
+  "T-4060": {
+   "age_h": 37.03,
+   "breached": false,
+   "score": 0.771,
+   "why": "11.0 h left on the clock. Still recoverable without a call."
+  },
+  "T-4061": {
+   "age_h": 31.09,
+   "breached": true,
+   "score": 6.3,
+   "why": "Past SLA by 27.1 h. Business account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4062": {
+   "age_h": 65.27,
+   "breached": true,
+   "score": 4.079,
+   "why": "Past SLA by 41.3 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4063": {
+   "age_h": 62.51,
+   "breached": true,
+   "score": 1.953,
+   "why": "Past SLA by 14.5 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4064": {
+   "age_h": 43.94,
+   "breached": true,
+   "score": 2.746,
+   "why": "Past SLA by 19.9 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4065": {
+   "age_h": 23.17,
+   "breached": true,
+   "score": 4.5,
+   "why": "Past SLA by 19.2 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4066": {
+   "age_h": 43.14,
+   "breached": true,
+   "score": 4.5,
+   "why": "Past SLA by 35.1 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4067": {
+   "age_h": 19.54,
+   "breached": true,
+   "score": 6.3,
+   "why": "Past SLA by 15.5 h. Business account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4068": {
+   "age_h": 72.61,
+   "breached": true,
+   "score": 6.3,
+   "why": "Past SLA by 48.6 h. Business account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4069": {
+   "age_h": 74.85,
+   "breached": true,
+   "score": 6.3,
+   "why": "Past SLA by 66.8 h. Business account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4070": {
+   "age_h": 8.83,
+   "breached": false,
+   "score": 0.258,
+   "why": "Inside the window with room. Nothing to do yet."
+  },
+  "T-4071": {
+   "age_h": 19.3,
+   "breached": false,
+   "score": 1.126,
+   "why": "4.7 h left on the clock. Still recoverable without a call."
+  },
+  "T-4072": {
+   "age_h": 44.78,
+   "breached": true,
+   "score": 9.0,
+   "why": "Past SLA by 40.8 h. Enterprise account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4073": {
+   "age_h": 20.87,
+   "breached": false,
+   "score": 0.87,
+   "why": "3.1 h left on the clock. Still recoverable without a call."
+  },
+  "T-4074": {
+   "age_h": 51.78,
+   "breached": true,
+   "score": 6.3,
+   "why": "Past SLA by 47.8 h. Business account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4075": {
+   "age_h": 33.78,
+   "breached": true,
+   "score": 4.223,
+   "why": "Past SLA by 9.8 h. Enterprise account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4076": {
+   "age_h": 53.05,
+   "breached": true,
+   "score": 4.5,
+   "why": "Past SLA by 49.0 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4077": {
+   "age_h": 21.35,
+   "breached": true,
+   "score": 4.5,
+   "why": "Past SLA by 17.4 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4078": {
+   "age_h": 17.01,
+   "breached": true,
+   "score": 3.189,
+   "why": "Past SLA by 9.0 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4079": {
+   "age_h": 45.44,
+   "breached": false,
+   "score": 0.947,
+   "why": "2.6 h left on the clock. Still recoverable without a call."
+  },
+  "T-4080": {
+   "age_h": 55.79,
+   "breached": true,
+   "score": 1.743,
+   "why": "Past SLA by 7.8 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4081": {
+   "age_h": 50.8,
+   "breached": true,
+   "score": 4.5,
+   "why": "Past SLA by 42.8 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4082": {
+   "age_h": 50.43,
+   "breached": true,
+   "score": 2.206,
+   "why": "Past SLA by 2.4 h. Business account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4083": {
+   "age_h": 91.68,
+   "breached": true,
+   "score": 6.3,
+   "why": "Past SLA by 83.7 h. Business account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4084": {
+   "age_h": 92.99,
+   "breached": true,
+   "score": 4.5,
+   "why": "Past SLA by 85.0 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4085": {
+   "age_h": 39.76,
+   "breached": false,
+   "score": 0.828,
+   "why": "8.2 h left on the clock. Still recoverable without a call."
+  },
+  "T-4086": {
+   "age_h": 3.15,
+   "breached": false,
+   "score": 0.066,
+   "why": "Inside the window with room. Nothing to do yet."
+  },
+  "T-4087": {
+   "age_h": 52.45,
+   "breached": true,
+   "score": 4.5,
+   "why": "Past SLA by 44.5 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4088": {
+   "age_h": 6.79,
+   "breached": false,
+   "score": 0.141,
+   "why": "Inside the window with room. Nothing to do yet."
+  },
+  "T-4089": {
+   "age_h": 26.21,
+   "breached": true,
+   "score": 1.638,
+   "why": "Past SLA by 2.2 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4090": {
+   "age_h": 41.92,
+   "breached": true,
+   "score": 4.5,
+   "why": "Past SLA by 37.9 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4091": {
+   "age_h": 18.78,
+   "breached": true,
+   "score": 3.521,
+   "why": "Past SLA by 10.8 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4092": {
+   "age_h": 67.55,
+   "breached": true,
+   "score": 9.0,
+   "why": "Past SLA by 59.5 h. Enterprise account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4093": {
+   "age_h": 22.2,
+   "breached": false,
+   "score": 1.295,
+   "why": "1.8 h left on the clock. Still recoverable without a call."
+  },
+  "T-4094": {
+   "age_h": 23.85,
+   "breached": true,
+   "score": 6.3,
+   "why": "Past SLA by 19.9 h. Business account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4095": {
+   "age_h": 81.86,
+   "breached": true,
+   "score": 2.558,
+   "why": "Past SLA by 33.9 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4096": {
+   "age_h": 2.72,
+   "breached": false,
+   "score": 0.34,
+   "why": "Inside the window with room. Nothing to do yet."
+  },
+  "T-4097": {
+   "age_h": 51.9,
+   "breached": true,
+   "score": 4.5,
+   "why": "Past SLA by 43.9 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4098": {
+   "age_h": 22.72,
+   "breached": false,
+   "score": 0.947,
+   "why": "1.3 h left on the clock. Still recoverable without a call."
+  },
+  "T-4099": {
+   "age_h": 58.1,
+   "breached": true,
+   "score": 6.3,
+   "why": "Past SLA by 50.1 h. Business account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4100": {
+   "age_h": 85.26,
+   "breached": true,
+   "score": 4.5,
+   "why": "Past SLA by 77.3 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4101": {
+   "age_h": 69.89,
+   "breached": true,
+   "score": 3.058,
+   "why": "Past SLA by 21.9 h. Business account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4102": {
+   "age_h": 79.97,
+   "breached": true,
+   "score": 4.5,
+   "why": "Past SLA by 72.0 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4103": {
+   "age_h": 19.66,
+   "breached": false,
+   "score": 1.638,
+   "why": "4.3 h left on the clock. Still recoverable without a call."
+  },
+  "T-4104": {
+   "age_h": 87.54,
+   "breached": true,
+   "score": 6.3,
+   "why": "Past SLA by 63.5 h. Business account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4105": {
+   "age_h": 48.52,
+   "breached": true,
+   "score": 1.516,
+   "why": "Past SLA by 0.5 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4106": {
+   "age_h": 10.64,
+   "breached": false,
+   "score": 0.222,
+   "why": "Inside the window with room. Nothing to do yet."
+  },
+  "T-4107": {
+   "age_h": 14.5,
+   "breached": true,
+   "score": 3.806,
+   "why": "Past SLA by 6.5 h. Business account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4108": {
+   "age_h": 80.74,
+   "breached": true,
+   "score": 4.5,
+   "why": "Past SLA by 76.7 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4109": {
+   "age_h": 55.87,
+   "breached": true,
+   "score": 1.746,
+   "why": "Past SLA by 7.9 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4110": {
+   "age_h": 7.91,
+   "breached": false,
+   "score": 0.231,
+   "why": "Inside the window with room. Nothing to do yet."
+  },
+  "T-4111": {
+   "age_h": 41.23,
+   "breached": true,
+   "score": 2.577,
+   "why": "Past SLA by 17.2 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4112": {
+   "age_h": 1.76,
+   "breached": false,
+   "score": 0.22,
+   "why": "Inside the window with room. Nothing to do yet."
+  },
+  "T-4113": {
+   "age_h": 39.46,
+   "breached": false,
+   "score": 0.822,
+   "why": "8.5 h left on the clock. Still recoverable without a call."
+  },
+  "T-4114": {
+   "age_h": 88.54,
+   "breached": true,
+   "score": 9.0,
+   "why": "Past SLA by 84.5 h. Enterprise account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4115": {
+   "age_h": 31.41,
+   "breached": false,
+   "score": 0.654,
+   "why": "Inside the window with room. Nothing to do yet."
+  },
+  "T-4116": {
+   "age_h": 54.9,
+   "breached": true,
+   "score": 3.431,
+   "why": "Past SLA by 30.9 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4117": {
+   "age_h": 77.36,
+   "breached": true,
+   "score": 6.3,
+   "why": "Past SLA by 73.4 h. Business account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4118": {
+   "age_h": 71.59,
+   "breached": true,
+   "score": 2.237,
+   "why": "Past SLA by 23.6 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4119": {
+   "age_h": 13.22,
+   "breached": false,
+   "score": 0.551,
+   "why": "Inside the window with room. Nothing to do yet."
+  },
+  "T-4120": {
+   "age_h": 73.77,
+   "breached": true,
+   "score": 4.5,
+   "why": "Past SLA by 65.8 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4121": {
+   "age_h": 7.24,
+   "breached": true,
+   "score": 3.801,
+   "why": "Past SLA by 3.2 h. Business account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4122": {
+   "age_h": 1.51,
+   "breached": false,
+   "score": 0.378,
+   "why": "Inside the window with room. Nothing to do yet."
+  },
+  "T-4123": {
+   "age_h": 22.67,
+   "breached": false,
+   "score": 0.661,
+   "why": "Inside the window with room. Nothing to do yet."
+  },
+  "T-4124": {
+   "age_h": 54.89,
+   "breached": true,
+   "score": 2.401,
+   "why": "Past SLA by 6.9 h. Business account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4125": {
+   "age_h": 61.84,
+   "breached": true,
+   "score": 4.5,
+   "why": "Past SLA by 57.8 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4126": {
+   "age_h": 11.46,
+   "breached": false,
+   "score": 0.478,
+   "why": "Inside the window with room. Nothing to do yet."
+  },
+  "T-4127": {
+   "age_h": 42.87,
+   "breached": false,
+   "score": 0.893,
+   "why": "5.1 h left on the clock. Still recoverable without a call."
+  },
+  "T-4128": {
+   "age_h": 1.53,
+   "breached": false,
+   "score": 0.089,
+   "why": "Inside the window with room. Nothing to do yet."
+  },
+  "T-4129": {
+   "age_h": 53.03,
+   "breached": true,
+   "score": 4.5,
+   "why": "Past SLA by 49.0 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4130": {
+   "age_h": 61.43,
+   "breached": true,
+   "score": 4.5,
+   "why": "Past SLA by 57.4 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4131": {
+   "age_h": 37.4,
+   "breached": true,
+   "score": 6.3,
+   "why": "Past SLA by 29.4 h. Business account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4132": {
+   "age_h": 82.22,
+   "breached": true,
+   "score": 2.569,
+   "why": "Past SLA by 34.2 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4133": {
+   "age_h": 40.68,
+   "breached": true,
+   "score": 2.542,
+   "why": "Past SLA by 16.7 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4134": {
+   "age_h": 51.15,
+   "breached": true,
+   "score": 3.197,
+   "why": "Past SLA by 27.1 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4135": {
+   "age_h": 63.87,
+   "breached": true,
+   "score": 9.0,
+   "why": "Past SLA by 55.9 h. Enterprise account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4136": {
+   "age_h": 56.44,
+   "breached": true,
+   "score": 1.764,
+   "why": "Past SLA by 8.4 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4137": {
+   "age_h": 5.54,
+   "breached": true,
+   "score": 2.078,
+   "why": "Past SLA by 1.5 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4138": {
+   "age_h": 56.06,
+   "breached": true,
+   "score": 9.0,
+   "why": "Past SLA by 48.1 h. Enterprise account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4139": {
+   "age_h": 41.52,
+   "breached": true,
+   "score": 6.3,
+   "why": "Past SLA by 33.5 h. Business account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4140": {
+   "age_h": 4.84,
+   "breached": false,
+   "score": 0.101,
+   "why": "Inside the window with room. Nothing to do yet."
+  },
+  "T-4141": {
+   "age_h": 14.29,
+   "breached": true,
+   "score": 4.5,
+   "why": "Past SLA by 10.3 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4142": {
+   "age_h": 5.31,
+   "breached": false,
+   "score": 0.664,
+   "why": "Inside the window with room. Nothing to do yet."
+  },
+  "T-4143": {
+   "age_h": 82.74,
+   "breached": true,
+   "score": 4.5,
+   "why": "Past SLA by 78.7 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4144": {
+   "age_h": 35.2,
+   "breached": false,
+   "score": 0.733,
+   "why": "Inside the window with room. Nothing to do yet."
+  },
+  "T-4145": {
+   "age_h": 57.9,
+   "breached": true,
+   "score": 6.3,
+   "why": "Past SLA by 49.9 h. Business account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4146": {
+   "age_h": 91.48,
+   "breached": true,
+   "score": 6.3,
+   "why": "Past SLA by 87.5 h. Business account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4147": {
+   "age_h": 48.53,
+   "breached": true,
+   "score": 3.033,
+   "why": "Past SLA by 24.5 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4148": {
+   "age_h": 26.74,
+   "breached": true,
+   "score": 4.5,
+   "why": "Past SLA by 18.7 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4149": {
+   "age_h": 18.63,
+   "breached": true,
+   "score": 3.493,
+   "why": "Past SLA by 10.6 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4150": {
+   "age_h": 84.42,
+   "breached": true,
+   "score": 4.5,
+   "why": "Past SLA by 80.4 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4151": {
+   "age_h": 26.37,
+   "breached": true,
+   "score": 9.0,
+   "why": "Past SLA by 22.4 h. Enterprise account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4152": {
+   "age_h": 10.29,
+   "breached": true,
+   "score": 7.717,
+   "why": "Past SLA by 6.3 h. Enterprise account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4153": {
+   "age_h": 87.68,
+   "breached": true,
+   "score": 4.5,
+   "why": "Past SLA by 63.7 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4154": {
+   "age_h": 46.72,
+   "breached": true,
+   "score": 4.088,
+   "why": "Past SLA by 22.7 h. Business account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4155": {
+   "age_h": 47.72,
+   "breached": true,
+   "score": 4.5,
+   "why": "Past SLA by 43.7 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4156": {
+   "age_h": 77.12,
+   "breached": true,
+   "score": 4.5,
+   "why": "Past SLA by 69.1 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4157": {
+   "age_h": 42.93,
+   "breached": true,
+   "score": 6.3,
+   "why": "Past SLA by 34.9 h. Business account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4158": {
+   "age_h": 35.73,
+   "breached": true,
+   "score": 6.3,
+   "why": "Past SLA by 27.7 h. Business account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4159": {
+   "age_h": 41.34,
+   "breached": false,
+   "score": 0.861,
+   "why": "6.7 h left on the clock. Still recoverable without a call."
+  },
+  "T-4160": {
+   "age_h": 84.08,
+   "breached": true,
+   "score": 2.627,
+   "why": "Past SLA by 36.1 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4161": {
+   "age_h": 54.38,
+   "breached": true,
+   "score": 1.699,
+   "why": "Past SLA by 6.4 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4162": {
+   "age_h": 29.04,
+   "breached": true,
+   "score": 9.0,
+   "why": "Past SLA by 21.0 h. Enterprise account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4163": {
+   "age_h": 87.47,
+   "breached": true,
+   "score": 2.733,
+   "why": "Past SLA by 39.5 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4164": {
+   "age_h": 69.74,
+   "breached": true,
+   "score": 6.3,
+   "why": "Past SLA by 61.7 h. Business account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4165": {
+   "age_h": 21.39,
+   "breached": true,
+   "score": 6.3,
+   "why": "Past SLA by 17.4 h. Business account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4166": {
+   "age_h": 31.29,
+   "breached": true,
+   "score": 1.956,
+   "why": "Past SLA by 7.3 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4167": {
+   "age_h": 42.33,
+   "breached": true,
+   "score": 4.5,
+   "why": "Past SLA by 34.3 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4168": {
+   "age_h": 38.66,
+   "breached": true,
+   "score": 4.832,
+   "why": "Past SLA by 14.7 h. Enterprise account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4169": {
+   "age_h": 2.8,
+   "breached": false,
+   "score": 0.35,
+   "why": "Inside the window with room. Nothing to do yet."
+  },
+  "T-4170": {
+   "age_h": 71.06,
+   "breached": true,
+   "score": 4.5,
+   "why": "Past SLA by 63.1 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4171": {
+   "age_h": 80.37,
+   "breached": true,
+   "score": 3.516,
+   "why": "Past SLA by 32.4 h. Business account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4172": {
+   "age_h": 84.63,
+   "breached": true,
+   "score": 4.5,
+   "why": "Past SLA by 76.6 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4173": {
+   "age_h": 49.74,
+   "breached": true,
+   "score": 4.5,
+   "why": "Past SLA by 45.7 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4174": {
+   "age_h": 62.69,
+   "breached": true,
+   "score": 7.836,
+   "why": "Past SLA by 38.7 h. Enterprise account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4175": {
+   "age_h": 75.76,
+   "breached": true,
+   "score": 6.3,
+   "why": "Past SLA by 51.8 h. Business account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4176": {
+   "age_h": 70.89,
+   "breached": true,
+   "score": 9.0,
+   "why": "Past SLA by 62.9 h. Enterprise account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4177": {
+   "age_h": 9.81,
+   "breached": true,
+   "score": 2.575,
+   "why": "Past SLA by 1.8 h. Business account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4178": {
+   "age_h": 47.2,
+   "breached": false,
+   "score": 0.983,
+   "why": "0.8 h left on the clock. Still recoverable without a call."
+  },
+  "T-4179": {
+   "age_h": 33.97,
+   "breached": false,
+   "score": 0.708,
+   "why": "Inside the window with room. Nothing to do yet."
+  },
+  "T-4180": {
+   "age_h": 47.11,
+   "breached": true,
+   "score": 4.5,
+   "why": "Past SLA by 43.1 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4181": {
+   "age_h": 39.71,
+   "breached": false,
+   "score": 0.827,
+   "why": "8.3 h left on the clock. Still recoverable without a call."
+  },
+  "T-4182": {
+   "age_h": 80.13,
+   "breached": true,
+   "score": 4.5,
+   "why": "Past SLA by 76.1 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4183": {
+   "age_h": 50.53,
+   "breached": true,
+   "score": 1.579,
+   "why": "Past SLA by 2.5 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4184": {
+   "age_h": 88.7,
+   "breached": true,
+   "score": 6.3,
+   "why": "Past SLA by 80.7 h. Business account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4185": {
+   "age_h": 95.14,
+   "breached": true,
+   "score": 4.5,
+   "why": "Past SLA by 71.1 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4186": {
+   "age_h": 20.02,
+   "breached": false,
+   "score": 0.834,
+   "why": "4.0 h left on the clock. Still recoverable without a call."
+  },
+  "T-4187": {
+   "age_h": 93.11,
+   "breached": true,
+   "score": 4.5,
+   "why": "Past SLA by 89.1 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4188": {
+   "age_h": 29.48,
+   "breached": true,
+   "score": 4.5,
+   "why": "Past SLA by 21.5 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4189": {
+   "age_h": 87.61,
+   "breached": true,
+   "score": 5.476,
+   "why": "Past SLA by 39.6 h. Enterprise account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4190": {
+   "age_h": 87.34,
+   "breached": true,
+   "score": 6.3,
+   "why": "Past SLA by 79.3 h. Business account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4191": {
+   "age_h": 18.12,
+   "breached": false,
+   "score": 0.378,
+   "why": "Inside the window with room. Nothing to do yet."
+  },
+  "T-4192": {
+   "age_h": 57.3,
+   "breached": true,
+   "score": 3.581,
+   "why": "Past SLA by 33.3 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4193": {
+   "age_h": 38.94,
+   "breached": false,
+   "score": 0.811,
+   "why": "9.1 h left on the clock. Still recoverable without a call."
+  },
+  "T-4194": {
+   "age_h": 82.0,
+   "breached": true,
+   "score": 4.5,
+   "why": "Past SLA by 58.0 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4195": {
+   "age_h": 63.55,
+   "breached": true,
+   "score": 4.5,
+   "why": "Past SLA by 55.5 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4196": {
+   "age_h": 38.65,
+   "breached": false,
+   "score": 0.805,
+   "why": "9.4 h left on the clock. Still recoverable without a call."
+  },
+  "T-4197": {
+   "age_h": 93.71,
+   "breached": true,
+   "score": 4.5,
+   "why": "Past SLA by 89.7 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4198": {
+   "age_h": 63.3,
+   "breached": true,
+   "score": 1.978,
+   "why": "Past SLA by 15.3 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4199": {
+   "age_h": 86.95,
+   "breached": true,
+   "score": 2.717,
+   "why": "Past SLA by 39.0 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4200": {
+   "age_h": 58.38,
+   "breached": true,
+   "score": 3.649,
+   "why": "Past SLA by 34.4 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4201": {
+   "age_h": 14.32,
+   "breached": false,
+   "score": 0.597,
+   "why": "Inside the window with room. Nothing to do yet."
+  },
+  "T-4202": {
+   "age_h": 49.77,
+   "breached": true,
+   "score": 6.3,
+   "why": "Past SLA by 41.8 h. Business account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4203": {
+   "age_h": 0.63,
+   "breached": false,
+   "score": 0.158,
+   "why": "Inside the window with room. Nothing to do yet."
+  },
+  "T-4204": {
+   "age_h": 34.09,
+   "breached": false,
+   "score": 0.71,
+   "why": "Inside the window with room. Nothing to do yet."
+  },
+  "T-4205": {
+   "age_h": 8.41,
+   "breached": true,
+   "score": 3.154,
+   "why": "Past SLA by 0.4 h. Enterprise account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4206": {
+   "age_h": 40.32,
+   "breached": false,
+   "score": 0.84,
+   "why": "7.7 h left on the clock. Still recoverable without a call."
+  },
+  "T-4207": {
+   "age_h": 20.4,
+   "breached": true,
+   "score": 3.825,
+   "why": "Past SLA by 12.4 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4208": {
+   "age_h": 90.9,
+   "breached": true,
+   "score": 3.977,
+   "why": "Past SLA by 42.9 h. Business account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4209": {
+   "age_h": 7.76,
+   "breached": true,
+   "score": 2.91,
+   "why": "Past SLA by 3.8 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4210": {
+   "age_h": 34.85,
+   "breached": false,
+   "score": 1.016,
+   "why": "Inside the window with room. Nothing to do yet."
+  },
+  "T-4211": {
+   "age_h": 65.04,
+   "breached": true,
+   "score": 4.5,
+   "why": "Past SLA by 61.0 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4212": {
+   "age_h": 82.98,
+   "breached": true,
+   "score": 6.3,
+   "why": "Past SLA by 79.0 h. Business account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4213": {
+   "age_h": 44.25,
+   "breached": true,
+   "score": 4.5,
+   "why": "Past SLA by 36.2 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4214": {
+   "age_h": 86.6,
+   "breached": true,
+   "score": 3.789,
+   "why": "Past SLA by 38.6 h. Business account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4215": {
+   "age_h": 90.03,
+   "breached": true,
+   "score": 2.813,
+   "why": "Past SLA by 42.0 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4216": {
+   "age_h": 53.56,
+   "breached": true,
+   "score": 6.3,
+   "why": "Past SLA by 45.6 h. Business account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4217": {
+   "age_h": 36.46,
+   "breached": true,
+   "score": 3.19,
+   "why": "Past SLA by 12.5 h. Business account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4218": {
+   "age_h": 54.25,
+   "breached": true,
+   "score": 1.695,
+   "why": "Past SLA by 6.2 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4219": {
+   "age_h": 9.31,
+   "breached": true,
+   "score": 1.746,
+   "why": "Past SLA by 1.3 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4220": {
+   "age_h": 65.22,
+   "breached": true,
+   "score": 2.853,
+   "why": "Past SLA by 17.2 h. Business account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4221": {
+   "age_h": 3.98,
+   "breached": false,
+   "score": 0.995,
+   "why": "0.0 h left on the clock. Still recoverable without a call."
+  },
+  "T-4222": {
+   "age_h": 10.09,
+   "breached": true,
+   "score": 5.297,
+   "why": "Past SLA by 6.1 h. Business account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4223": {
+   "age_h": 41.93,
+   "breached": false,
+   "score": 1.223,
+   "why": "6.1 h left on the clock. Still recoverable without a call."
+  },
+  "T-4224": {
+   "age_h": 89.02,
+   "breached": true,
+   "score": 4.5,
+   "why": "Past SLA by 81.0 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4225": {
+   "age_h": 78.92,
+   "breached": true,
+   "score": 2.466,
+   "why": "Past SLA by 30.9 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4226": {
+   "age_h": 60.0,
+   "breached": true,
+   "score": 3.75,
+   "why": "Past SLA by 36.0 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4227": {
+   "age_h": 94.28,
+   "breached": true,
+   "score": 4.5,
+   "why": "Past SLA by 90.3 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4228": {
+   "age_h": 25.4,
+   "breached": false,
+   "score": 0.741,
+   "why": "Inside the window with room. Nothing to do yet."
+  },
+  "T-4229": {
+   "age_h": 10.65,
+   "breached": false,
+   "score": 0.621,
+   "why": "Inside the window with room. Nothing to do yet."
+  },
+  "T-4230": {
+   "age_h": 75.81,
+   "breached": true,
+   "score": 4.5,
+   "why": "Past SLA by 67.8 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4231": {
+   "age_h": 24.75,
+   "breached": true,
+   "score": 1.547,
+   "why": "Past SLA by 0.8 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4232": {
+   "age_h": 58.95,
+   "breached": true,
+   "score": 4.5,
+   "why": "Past SLA by 51.0 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4233": {
+   "age_h": 94.74,
+   "breached": true,
+   "score": 4.5,
+   "why": "Past SLA by 90.7 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4234": {
+   "age_h": 60.39,
+   "breached": true,
+   "score": 4.5,
+   "why": "Past SLA by 52.4 h. Free account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4235": {
+   "age_h": 23.86,
+   "breached": false,
+   "score": 0.994,
+   "why": "0.1 h left on the clock. Still recoverable without a call."
+  },
+  "T-4236": {
+   "age_h": 9.26,
+   "breached": true,
+   "score": 4.861,
+   "why": "Past SLA by 5.3 h. Business account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4237": {
+   "age_h": 43.69,
+   "breached": true,
+   "score": 6.3,
+   "why": "Past SLA by 39.7 h. Business account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4238": {
+   "age_h": 54.01,
+   "breached": true,
+   "score": 4.726,
+   "why": "Past SLA by 30.0 h. Business account, so this one is already a conversation somebody is going to have."
+  },
+  "T-4239": {
+   "age_h": 57.94,
+   "breached": true,
+   "score": 4.5,
+   "why": "Past SLA by 53.9 h. Free account, so this one is already a conversation somebody is going to have."
+  }
+ }
+}

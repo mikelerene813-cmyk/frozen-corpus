@@ -1,0 +1,1682 @@
+[
+ {
+  "id": "T-4000",
+  "subject": "Search misses exact matches",
+  "tier": "free",
+  "sla_hours": 8,
+  "opened_at": "2026-03-12T13:18:00"
+ },
+ {
+  "id": "T-4001",
+  "subject": "Search misses exact matches",
+  "tier": "free",
+  "sla_hours": 8,
+  "opened_at": "2026-03-13T14:51:36"
+ },
+ {
+  "id": "T-4002",
+  "subject": "API 429s under normal load",
+  "tier": "business",
+  "sla_hours": 4,
+  "opened_at": "2026-03-13T23:30:36"
+ },
+ {
+  "id": "T-4003",
+  "subject": "Mobile upload fails on large files",
+  "tier": "free",
+  "sla_hours": 8,
+  "opened_at": "2026-03-11T23:38:24"
+ },
+ {
+  "id": "T-4004",
+  "subject": "Export times out over 50k rows",
+  "tier": "enterprise",
+  "sla_hours": 8,
+  "opened_at": "2026-03-11T20:59:24"
+ },
+ {
+  "id": "T-4005",
+  "subject": "Login loop after SSO change",
+  "tier": "free",
+  "sla_hours": 24,
+  "opened_at": "2026-03-10T20:30:00"
+ },
+ {
+  "id": "T-4006",
+  "subject": "Billing address won't save",
+  "tier": "free",
+  "sla_hours": 24,
+  "opened_at": "2026-03-12T14:25:48"
+ },
+ {
+  "id": "T-4007",
+  "subject": "Export times out over 50k rows",
+  "tier": "free",
+  "sla_hours": 24,
+  "opened_at": "2026-03-12T08:46:12"
+ },
+ {
+  "id": "T-4008",
+  "subject": "Export times out over 50k rows",
+  "tier": "free",
+  "sla_hours": 24,
+  "opened_at": "2026-03-12T17:39:00"
+ },
+ {
+  "id": "T-4009",
+  "subject": "API 429s under normal load",
+  "tier": "enterprise",
+  "sla_hours": 4,
+  "opened_at": "2026-03-11T08:06:36"
+ },
+ {
+  "id": "T-4010",
+  "subject": "API 429s under normal load",
+  "tier": "business",
+  "sla_hours": 4,
+  "opened_at": "2026-03-12T18:15:36"
+ },
+ {
+  "id": "T-4011",
+  "subject": "Login loop after SSO change",
+  "tier": "business",
+  "sla_hours": 4,
+  "opened_at": "2026-03-10T23:34:48"
+ },
+ {
+  "id": "T-4012",
+  "subject": "Mobile upload fails on large files",
+  "tier": "free",
+  "sla_hours": 8,
+  "opened_at": "2026-03-12T11:37:12"
+ },
+ {
+  "id": "T-4013",
+  "subject": "API 429s under normal load",
+  "tier": "business",
+  "sla_hours": 24,
+  "opened_at": "2026-03-11T06:09:00"
+ },
+ {
+  "id": "T-4014",
+  "subject": "Mobile upload fails on large files",
+  "tier": "free",
+  "sla_hours": 4,
+  "opened_at": "2026-03-13T00:44:24"
+ },
+ {
+  "id": "T-4015",
+  "subject": "Export times out over 50k rows",
+  "tier": "enterprise",
+  "sla_hours": 48,
+  "opened_at": "2026-03-13T19:39:00"
+ },
+ {
+  "id": "T-4016",
+  "subject": "Webhook retries duplicating",
+  "tier": "free",
+  "sla_hours": 8,
+  "opened_at": "2026-03-11T04:22:48"
+ },
+ {
+  "id": "T-4017",
+  "subject": "Billing address won't save",
+  "tier": "free",
+  "sla_hours": 8,
+  "opened_at": "2026-03-12T13:46:12"
+ },
+ {
+  "id": "T-4018",
+  "subject": "Mobile upload fails on large files",
+  "tier": "business",
+  "sla_hours": 48,
+  "opened_at": "2026-03-12T16:27:36"
+ },
+ {
+  "id": "T-4019",
+  "subject": "Login loop after SSO change",
+  "tier": "business",
+  "sla_hours": 24,
+  "opened_at": "2026-03-10T09:57:00"
+ },
+ {
+  "id": "T-4020",
+  "subject": "Login loop after SSO change",
+  "tier": "business",
+  "sla_hours": 48,
+  "opened_at": "2026-03-10T09:12:00"
+ },
+ {
+  "id": "T-4021",
+  "subject": "Export times out over 50k rows",
+  "tier": "enterprise",
+  "sla_hours": 8,
+  "opened_at": "2026-03-10T09:24:00"
+ },
+ {
+  "id": "T-4022",
+  "subject": "API 429s under normal load",
+  "tier": "enterprise",
+  "sla_hours": 24,
+  "opened_at": "2026-03-13T12:08:24"
+ },
+ {
+  "id": "T-4023",
+  "subject": "Mobile upload fails on large files",
+  "tier": "enterprise",
+  "sla_hours": 4,
+  "opened_at": "2026-03-11T01:12:36"
+ },
+ {
+  "id": "T-4024",
+  "subject": "Billing address won't save",
+  "tier": "enterprise",
+  "sla_hours": 24,
+  "opened_at": "2026-03-13T12:34:12"
+ },
+ {
+  "id": "T-4025",
+  "subject": "Search misses exact matches",
+  "tier": "business",
+  "sla_hours": 48,
+  "opened_at": "2026-03-12T21:00:00"
+ },
+ {
+  "id": "T-4026",
+  "subject": "Webhook retries duplicating",
+  "tier": "free",
+  "sla_hours": 8,
+  "opened_at": "2026-03-11T01:00:36"
+ },
+ {
+  "id": "T-4027",
+  "subject": "API 429s under normal load",
+  "tier": "free",
+  "sla_hours": 8,
+  "opened_at": "2026-03-11T20:36:00"
+ },
+ {
+  "id": "T-4028",
+  "subject": "Webhook retries duplicating",
+  "tier": "free",
+  "sla_hours": 8,
+  "opened_at": "2026-03-11T11:13:48"
+ },
+ {
+  "id": "T-4029",
+  "subject": "Mobile upload fails on large files",
+  "tier": "free",
+  "sla_hours": 4,
+  "opened_at": "2026-03-11T14:53:24"
+ },
+ {
+  "id": "T-4030",
+  "subject": "Export times out over 50k rows",
+  "tier": "business",
+  "sla_hours": 24,
+  "opened_at": "2026-03-12T16:15:00"
+ },
+ {
+  "id": "T-4031",
+  "subject": "Mobile upload fails on large files",
+  "tier": "business",
+  "sla_hours": 48,
+  "opened_at": "2026-03-13T09:43:48"
+ },
+ {
+  "id": "T-4032",
+  "subject": "Webhook retries duplicating",
+  "tier": "free",
+  "sla_hours": 4,
+  "opened_at": "2026-03-13T04:28:48"
+ },
+ {
+  "id": "T-4033",
+  "subject": "Search misses exact matches",
+  "tier": "free",
+  "sla_hours": 4,
+  "opened_at": "2026-03-13T20:25:48"
+ },
+ {
+  "id": "T-4034",
+  "subject": "Billing address won't save",
+  "tier": "free",
+  "sla_hours": 4,
+  "opened_at": "2026-03-13T05:44:24"
+ },
+ {
+  "id": "T-4035",
+  "subject": "Search misses exact matches",
+  "tier": "business",
+  "sla_hours": 4,
+  "opened_at": "2026-03-13T06:47:24"
+ },
+ {
+  "id": "T-4036",
+  "subject": "Report totals off by one day",
+  "tier": "free",
+  "sla_hours": 8,
+  "opened_at": "2026-03-13T15:40:12"
+ },
+ {
+  "id": "T-4037",
+  "subject": "Webhook retries duplicating",
+  "tier": "free",
+  "sla_hours": 24,
+  "opened_at": "2026-03-13T23:42:00"
+ },
+ {
+  "id": "T-4038",
+  "subject": "Webhook retries duplicating",
+  "tier": "free",
+  "sla_hours": 4,
+  "opened_at": "2026-03-11T17:45:36"
+ },
+ {
+  "id": "T-4039",
+  "subject": "Report totals off by one day",
+  "tier": "free",
+  "sla_hours": 4,
+  "opened_at": "2026-03-12T11:09:36"
+ },
+ {
+  "id": "T-4040",
+  "subject": "Export times out over 50k rows",
+  "tier": "free",
+  "sla_hours": 24,
+  "opened_at": "2026-03-14T06:28:12"
+ },
+ {
+  "id": "T-4041",
+  "subject": "Export times out over 50k rows",
+  "tier": "enterprise",
+  "sla_hours": 24,
+  "opened_at": "2026-03-13T02:02:24"
+ },
+ {
+  "id": "T-4042",
+  "subject": "Webhook retries duplicating",
+  "tier": "free",
+  "sla_hours": 24,
+  "opened_at": "2026-03-11T10:07:12"
+ },
+ {
+  "id": "T-4043",
+  "subject": "Search misses exact matches",
+  "tier": "free",
+  "sla_hours": 48,
+  "opened_at": "2026-03-12T22:54:00"
+ },
+ {
+  "id": "T-4044",
+  "subject": "Login loop after SSO change",
+  "tier": "free",
+  "sla_hours": 4,
+  "opened_at": "2026-03-10T14:19:48"
+ },
+ {
+  "id": "T-4045",
+  "subject": "Mobile upload fails on large files",
+  "tier": "business",
+  "sla_hours": 4,
+  "opened_at": "2026-03-11T20:49:12"
+ },
+ {
+  "id": "T-4046",
+  "subject": "Export times out over 50k rows",
+  "tier": "enterprise",
+  "sla_hours": 4,
+  "opened_at": "2026-03-11T22:21:00"
+ },
+ {
+  "id": "T-4047",
+  "subject": "Mobile upload fails on large files",
+  "tier": "free",
+  "sla_hours": 48,
+  "opened_at": "2026-03-10T09:38:24"
+ },
+ {
+  "id": "T-4048",
+  "subject": "Search misses exact matches",
+  "tier": "free",
+  "sla_hours": 4,
+  "opened_at": "2026-03-10T15:16:48"
+ },
+ {
+  "id": "T-4049",
+  "subject": "Login loop after SSO change",
+  "tier": "business",
+  "sla_hours": 4,
+  "opened_at": "2026-03-12T06:57:36"
+ },
+ {
+  "id": "T-4050",
+  "subject": "Billing address won't save",
+  "tier": "free",
+  "sla_hours": 4,
+  "opened_at": "2026-03-12T10:34:12"
+ },
+ {
+  "id": "T-4051",
+  "subject": "Search misses exact matches",
+  "tier": "business",
+  "sla_hours": 4,
+  "opened_at": "2026-03-12T09:00:36"
+ },
+ {
+  "id": "T-4052",
+  "subject": "Webhook retries duplicating",
+  "tier": "free",
+  "sla_hours": 8,
+  "opened_at": "2026-03-12T21:21:36"
+ },
+ {
+  "id": "T-4053",
+  "subject": "Report totals off by one day",
+  "tier": "free",
+  "sla_hours": 48,
+  "opened_at": "2026-03-12T06:59:24"
+ },
+ {
+  "id": "T-4054",
+  "subject": "Billing address won't save",
+  "tier": "business",
+  "sla_hours": 24,
+  "opened_at": "2026-03-12T08:54:36"
+ },
+ {
+  "id": "T-4055",
+  "subject": "Mobile upload fails on large files",
+  "tier": "free",
+  "sla_hours": 8,
+  "opened_at": "2026-03-13T13:32:24"
+ },
+ {
+  "id": "T-4056",
+  "subject": "Mobile upload fails on large files",
+  "tier": "business",
+  "sla_hours": 24,
+  "opened_at": "2026-03-10T20:25:48"
+ },
+ {
+  "id": "T-4057",
+  "subject": "Webhook retries duplicating",
+  "tier": "free",
+  "sla_hours": 4,
+  "opened_at": "2026-03-13T12:27:36"
+ },
+ {
+  "id": "T-4058",
+  "subject": "API 429s under normal load",
+  "tier": "free",
+  "sla_hours": 4,
+  "opened_at": "2026-03-11T12:34:48"
+ },
+ {
+  "id": "T-4059",
+  "subject": "API 429s under normal load",
+  "tier": "free",
+  "sla_hours": 48,
+  "opened_at": "2026-03-12T13:27:36"
+ },
+ {
+  "id": "T-4060",
+  "subject": "Search misses exact matches",
+  "tier": "free",
+  "sla_hours": 48,
+  "opened_at": "2026-03-12T19:58:12"
+ },
+ {
+  "id": "T-4061",
+  "subject": "Login loop after SSO change",
+  "tier": "business",
+  "sla_hours": 4,
+  "opened_at": "2026-03-13T01:54:36"
+ },
+ {
+  "id": "T-4062",
+  "subject": "API 429s under normal load",
+  "tier": "free",
+  "sla_hours": 24,
+  "opened_at": "2026-03-11T15:43:48"
+ },
+ {
+  "id": "T-4063",
+  "subject": "Login loop after SSO change",
+  "tier": "free",
+  "sla_hours": 48,
+  "opened_at": "2026-03-11T18:29:24"
+ },
+ {
+  "id": "T-4064",
+  "subject": "Login loop after SSO change",
+  "tier": "free",
+  "sla_hours": 24,
+  "opened_at": "2026-03-12T13:03:36"
+ },
+ {
+  "id": "T-4065",
+  "subject": "Webhook retries duplicating",
+  "tier": "free",
+  "sla_hours": 4,
+  "opened_at": "2026-03-13T09:49:48"
+ },
+ {
+  "id": "T-4066",
+  "subject": "Report totals off by one day",
+  "tier": "free",
+  "sla_hours": 8,
+  "opened_at": "2026-03-12T13:51:36"
+ },
+ {
+  "id": "T-4067",
+  "subject": "Search misses exact matches",
+  "tier": "business",
+  "sla_hours": 4,
+  "opened_at": "2026-03-13T13:27:36"
+ },
+ {
+  "id": "T-4068",
+  "subject": "Login loop after SSO change",
+  "tier": "business",
+  "sla_hours": 24,
+  "opened_at": "2026-03-11T08:23:24"
+ },
+ {
+  "id": "T-4069",
+  "subject": "Webhook retries duplicating",
+  "tier": "business",
+  "sla_hours": 8,
+  "opened_at": "2026-03-11T06:09:00"
+ },
+ {
+  "id": "T-4070",
+  "subject": "Mobile upload fails on large files",
+  "tier": "business",
+  "sla_hours": 48,
+  "opened_at": "2026-03-14T00:10:12"
+ },
+ {
+  "id": "T-4071",
+  "subject": "Login loop after SSO change",
+  "tier": "business",
+  "sla_hours": 24,
+  "opened_at": "2026-03-13T13:42:00"
+ },
+ {
+  "id": "T-4072",
+  "subject": "Billing address won't save",
+  "tier": "enterprise",
+  "sla_hours": 4,
+  "opened_at": "2026-03-12T12:13:12"
+ },
+ {
+  "id": "T-4073",
+  "subject": "Mobile upload fails on large files",
+  "tier": "free",
+  "sla_hours": 24,
+  "opened_at": "2026-03-13T12:07:48"
+ },
+ {
+  "id": "T-4074",
+  "subject": "Report totals off by one day",
+  "tier": "business",
+  "sla_hours": 4,
+  "opened_at": "2026-03-12T05:13:12"
+ },
+ {
+  "id": "T-4075",
+  "subject": "Export times out over 50k rows",
+  "tier": "enterprise",
+  "sla_hours": 24,
+  "opened_at": "2026-03-12T23:13:12"
+ },
+ {
+  "id": "T-4076",
+  "subject": "API 429s under normal load",
+  "tier": "free",
+  "sla_hours": 4,
+  "opened_at": "2026-03-12T03:57:00"
+ },
+ {
+  "id": "T-4077",
+  "subject": "Export times out over 50k rows",
+  "tier": "free",
+  "sla_hours": 4,
+  "opened_at": "2026-03-13T11:39:00"
+ },
+ {
+  "id": "T-4078",
+  "subject": "Report totals off by one day",
+  "tier": "free",
+  "sla_hours": 8,
+  "opened_at": "2026-03-13T15:59:24"
+ },
+ {
+  "id": "T-4079",
+  "subject": "Search misses exact matches",
+  "tier": "free",
+  "sla_hours": 48,
+  "opened_at": "2026-03-12T11:33:36"
+ },
+ {
+  "id": "T-4080",
+  "subject": "Export times out over 50k rows",
+  "tier": "free",
+  "sla_hours": 48,
+  "opened_at": "2026-03-12T01:12:36"
+ },
+ {
+  "id": "T-4081",
+  "subject": "API 429s under normal load",
+  "tier": "free",
+  "sla_hours": 8,
+  "opened_at": "2026-03-12T06:12:00"
+ },
+ {
+  "id": "T-4082",
+  "subject": "API 429s under normal load",
+  "tier": "business",
+  "sla_hours": 48,
+  "opened_at": "2026-03-12T06:34:12"
+ },
+ {
+  "id": "T-4083",
+  "subject": "Billing address won't save",
+  "tier": "business",
+  "sla_hours": 8,
+  "opened_at": "2026-03-10T13:19:12"
+ },
+ {
+  "id": "T-4084",
+  "subject": "API 429s under normal load",
+  "tier": "free",
+  "sla_hours": 8,
+  "opened_at": "2026-03-10T12:00:36"
+ },
+ {
+  "id": "T-4085",
+  "subject": "Export times out over 50k rows",
+  "tier": "free",
+  "sla_hours": 48,
+  "opened_at": "2026-03-12T17:14:24"
+ },
+ {
+  "id": "T-4086",
+  "subject": "Login loop after SSO change",
+  "tier": "free",
+  "sla_hours": 48,
+  "opened_at": "2026-03-14T05:51:00"
+ },
+ {
+  "id": "T-4087",
+  "subject": "Export times out over 50k rows",
+  "tier": "free",
+  "sla_hours": 8,
+  "opened_at": "2026-03-12T04:33:00"
+ },
+ {
+  "id": "T-4088",
+  "subject": "Search misses exact matches",
+  "tier": "free",
+  "sla_hours": 48,
+  "opened_at": "2026-03-14T02:12:36"
+ },
+ {
+  "id": "T-4089",
+  "subject": "Search misses exact matches",
+  "tier": "free",
+  "sla_hours": 24,
+  "opened_at": "2026-03-13T06:47:24"
+ },
+ {
+  "id": "T-4090",
+  "subject": "Search misses exact matches",
+  "tier": "free",
+  "sla_hours": 4,
+  "opened_at": "2026-03-12T15:04:48"
+ },
+ {
+  "id": "T-4091",
+  "subject": "Login loop after SSO change",
+  "tier": "free",
+  "sla_hours": 8,
+  "opened_at": "2026-03-13T14:13:12"
+ },
+ {
+  "id": "T-4092",
+  "subject": "Login loop after SSO change",
+  "tier": "enterprise",
+  "sla_hours": 8,
+  "opened_at": "2026-03-11T13:27:00"
+ },
+ {
+  "id": "T-4093",
+  "subject": "API 429s under normal load",
+  "tier": "business",
+  "sla_hours": 24,
+  "opened_at": "2026-03-13T10:48:00"
+ },
+ {
+  "id": "T-4094",
+  "subject": "Search misses exact matches",
+  "tier": "business",
+  "sla_hours": 4,
+  "opened_at": "2026-03-13T09:09:00"
+ },
+ {
+  "id": "T-4095",
+  "subject": "API 429s under normal load",
+  "tier": "free",
+  "sla_hours": 48,
+  "opened_at": "2026-03-10T23:08:24"
+ },
+ {
+  "id": "T-4096",
+  "subject": "Mobile upload fails on large files",
+  "tier": "free",
+  "sla_hours": 8,
+  "opened_at": "2026-03-14T06:16:48"
+ },
+ {
+  "id": "T-4097",
+  "subject": "Billing address won't save",
+  "tier": "free",
+  "sla_hours": 8,
+  "opened_at": "2026-03-12T05:06:00"
+ },
+ {
+  "id": "T-4098",
+  "subject": "Report totals off by one day",
+  "tier": "free",
+  "sla_hours": 24,
+  "opened_at": "2026-03-13T10:16:48"
+ },
+ {
+  "id": "T-4099",
+  "subject": "Billing address won't save",
+  "tier": "business",
+  "sla_hours": 8,
+  "opened_at": "2026-03-11T22:54:00"
+ },
+ {
+  "id": "T-4100",
+  "subject": "Webhook retries duplicating",
+  "tier": "free",
+  "sla_hours": 8,
+  "opened_at": "2026-03-10T19:44:24"
+ },
+ {
+  "id": "T-4101",
+  "subject": "API 429s under normal load",
+  "tier": "business",
+  "sla_hours": 48,
+  "opened_at": "2026-03-11T11:06:36"
+ },
+ {
+  "id": "T-4102",
+  "subject": "Mobile upload fails on large files",
+  "tier": "free",
+  "sla_hours": 8,
+  "opened_at": "2026-03-11T01:01:48"
+ },
+ {
+  "id": "T-4103",
+  "subject": "Login loop after SSO change",
+  "tier": "enterprise",
+  "sla_hours": 24,
+  "opened_at": "2026-03-13T13:20:24"
+ },
+ {
+  "id": "T-4104",
+  "subject": "Report totals off by one day",
+  "tier": "business",
+  "sla_hours": 24,
+  "opened_at": "2026-03-10T17:27:36"
+ },
+ {
+  "id": "T-4105",
+  "subject": "Billing address won't save",
+  "tier": "free",
+  "sla_hours": 48,
+  "opened_at": "2026-03-12T08:28:48"
+ },
+ {
+  "id": "T-4106",
+  "subject": "Login loop after SSO change",
+  "tier": "free",
+  "sla_hours": 48,
+  "opened_at": "2026-03-13T22:21:36"
+ },
+ {
+  "id": "T-4107",
+  "subject": "Webhook retries duplicating",
+  "tier": "business",
+  "sla_hours": 8,
+  "opened_at": "2026-03-13T18:30:00"
+ },
+ {
+  "id": "T-4108",
+  "subject": "API 429s under normal load",
+  "tier": "free",
+  "sla_hours": 4,
+  "opened_at": "2026-03-11T00:15:36"
+ },
+ {
+  "id": "T-4109",
+  "subject": "Webhook retries duplicating",
+  "tier": "free",
+  "sla_hours": 48,
+  "opened_at": "2026-03-12T01:07:48"
+ },
+ {
+  "id": "T-4110",
+  "subject": "Export times out over 50k rows",
+  "tier": "business",
+  "sla_hours": 48,
+  "opened_at": "2026-03-14T01:05:24"
+ },
+ {
+  "id": "T-4111",
+  "subject": "Report totals off by one day",
+  "tier": "free",
+  "sla_hours": 24,
+  "opened_at": "2026-03-12T15:46:12"
+ },
+ {
+  "id": "T-4112",
+  "subject": "Login loop after SSO change",
+  "tier": "free",
+  "sla_hours": 8,
+  "opened_at": "2026-03-14T07:14:24"
+ },
+ {
+  "id": "T-4113",
+  "subject": "Report totals off by one day",
+  "tier": "free",
+  "sla_hours": 48,
+  "opened_at": "2026-03-12T17:32:24"
+ },
+ {
+  "id": "T-4114",
+  "subject": "Webhook retries duplicating",
+  "tier": "enterprise",
+  "sla_hours": 4,
+  "opened_at": "2026-03-10T16:27:36"
+ },
+ {
+  "id": "T-4115",
+  "subject": "Export times out over 50k rows",
+  "tier": "free",
+  "sla_hours": 48,
+  "opened_at": "2026-03-13T01:35:24"
+ },
+ {
+  "id": "T-4116",
+  "subject": "Billing address won't save",
+  "tier": "free",
+  "sla_hours": 24,
+  "opened_at": "2026-03-12T02:06:00"
+ },
+ {
+  "id": "T-4117",
+  "subject": "API 429s under normal load",
+  "tier": "business",
+  "sla_hours": 4,
+  "opened_at": "2026-03-11T03:38:24"
+ },
+ {
+  "id": "T-4118",
+  "subject": "Webhook retries duplicating",
+  "tier": "free",
+  "sla_hours": 48,
+  "opened_at": "2026-03-11T09:24:36"
+ },
+ {
+  "id": "T-4119",
+  "subject": "Report totals off by one day",
+  "tier": "free",
+  "sla_hours": 24,
+  "opened_at": "2026-03-13T19:46:48"
+ },
+ {
+  "id": "T-4120",
+  "subject": "Webhook retries duplicating",
+  "tier": "free",
+  "sla_hours": 8,
+  "opened_at": "2026-03-11T07:13:48"
+ },
+ {
+  "id": "T-4121",
+  "subject": "Report totals off by one day",
+  "tier": "business",
+  "sla_hours": 4,
+  "opened_at": "2026-03-14T01:45:36"
+ },
+ {
+  "id": "T-4122",
+  "subject": "Report totals off by one day",
+  "tier": "free",
+  "sla_hours": 4,
+  "opened_at": "2026-03-14T07:29:24"
+ },
+ {
+  "id": "T-4123",
+  "subject": "API 429s under normal load",
+  "tier": "business",
+  "sla_hours": 48,
+  "opened_at": "2026-03-13T10:19:48"
+ },
+ {
+  "id": "T-4124",
+  "subject": "Export times out over 50k rows",
+  "tier": "business",
+  "sla_hours": 48,
+  "opened_at": "2026-03-12T02:06:36"
+ },
+ {
+  "id": "T-4125",
+  "subject": "Export times out over 50k rows",
+  "tier": "free",
+  "sla_hours": 4,
+  "opened_at": "2026-03-11T19:09:36"
+ },
+ {
+  "id": "T-4126",
+  "subject": "Export times out over 50k rows",
+  "tier": "free",
+  "sla_hours": 24,
+  "opened_at": "2026-03-13T21:32:24"
+ },
+ {
+  "id": "T-4127",
+  "subject": "Login loop after SSO change",
+  "tier": "free",
+  "sla_hours": 48,
+  "opened_at": "2026-03-12T14:07:48"
+ },
+ {
+  "id": "T-4128",
+  "subject": "API 429s under normal load",
+  "tier": "business",
+  "sla_hours": 24,
+  "opened_at": "2026-03-14T07:28:12"
+ },
+ {
+  "id": "T-4129",
+  "subject": "Mobile upload fails on large files",
+  "tier": "free",
+  "sla_hours": 4,
+  "opened_at": "2026-03-12T03:58:12"
+ },
+ {
+  "id": "T-4130",
+  "subject": "Export times out over 50k rows",
+  "tier": "free",
+  "sla_hours": 4,
+  "opened_at": "2026-03-11T19:34:12"
+ },
+ {
+  "id": "T-4131",
+  "subject": "Webhook retries duplicating",
+  "tier": "business",
+  "sla_hours": 8,
+  "opened_at": "2026-03-12T19:36:00"
+ },
+ {
+  "id": "T-4132",
+  "subject": "Login loop after SSO change",
+  "tier": "free",
+  "sla_hours": 48,
+  "opened_at": "2026-03-10T22:46:48"
+ },
+ {
+  "id": "T-4133",
+  "subject": "Mobile upload fails on large files",
+  "tier": "free",
+  "sla_hours": 24,
+  "opened_at": "2026-03-12T16:19:12"
+ },
+ {
+  "id": "T-4134",
+  "subject": "Search misses exact matches",
+  "tier": "free",
+  "sla_hours": 24,
+  "opened_at": "2026-03-12T05:51:00"
+ },
+ {
+  "id": "T-4135",
+  "subject": "API 429s under normal load",
+  "tier": "enterprise",
+  "sla_hours": 8,
+  "opened_at": "2026-03-11T17:07:48"
+ },
+ {
+  "id": "T-4136",
+  "subject": "Webhook retries duplicating",
+  "tier": "free",
+  "sla_hours": 48,
+  "opened_at": "2026-03-12T00:33:36"
+ },
+ {
+  "id": "T-4137",
+  "subject": "Report totals off by one day",
+  "tier": "free",
+  "sla_hours": 4,
+  "opened_at": "2026-03-14T03:27:36"
+ },
+ {
+  "id": "T-4138",
+  "subject": "Report totals off by one day",
+  "tier": "enterprise",
+  "sla_hours": 8,
+  "opened_at": "2026-03-12T00:56:24"
+ },
+ {
+  "id": "T-4139",
+  "subject": "Search misses exact matches",
+  "tier": "business",
+  "sla_hours": 8,
+  "opened_at": "2026-03-12T15:28:48"
+ },
+ {
+  "id": "T-4140",
+  "subject": "Export times out over 50k rows",
+  "tier": "free",
+  "sla_hours": 48,
+  "opened_at": "2026-03-14T04:09:36"
+ },
+ {
+  "id": "T-4141",
+  "subject": "Billing address won't save",
+  "tier": "free",
+  "sla_hours": 4,
+  "opened_at": "2026-03-13T18:42:36"
+ },
+ {
+  "id": "T-4142",
+  "subject": "Mobile upload fails on large files",
+  "tier": "free",
+  "sla_hours": 8,
+  "opened_at": "2026-03-14T03:41:24"
+ },
+ {
+  "id": "T-4143",
+  "subject": "Report totals off by one day",
+  "tier": "free",
+  "sla_hours": 4,
+  "opened_at": "2026-03-10T22:15:36"
+ },
+ {
+  "id": "T-4144",
+  "subject": "Webhook retries duplicating",
+  "tier": "free",
+  "sla_hours": 48,
+  "opened_at": "2026-03-12T21:48:00"
+ },
+ {
+  "id": "T-4145",
+  "subject": "Mobile upload fails on large files",
+  "tier": "business",
+  "sla_hours": 8,
+  "opened_at": "2026-03-11T23:06:00"
+ },
+ {
+  "id": "T-4146",
+  "subject": "Webhook retries duplicating",
+  "tier": "business",
+  "sla_hours": 4,
+  "opened_at": "2026-03-10T13:31:12"
+ },
+ {
+  "id": "T-4147",
+  "subject": "API 429s under normal load",
+  "tier": "free",
+  "sla_hours": 24,
+  "opened_at": "2026-03-12T08:28:12"
+ },
+ {
+  "id": "T-4148",
+  "subject": "Billing address won't save",
+  "tier": "free",
+  "sla_hours": 8,
+  "opened_at": "2026-03-13T06:15:36"
+ },
+ {
+  "id": "T-4149",
+  "subject": "Billing address won't save",
+  "tier": "free",
+  "sla_hours": 8,
+  "opened_at": "2026-03-13T14:22:12"
+ },
+ {
+  "id": "T-4150",
+  "subject": "Login loop after SSO change",
+  "tier": "free",
+  "sla_hours": 4,
+  "opened_at": "2026-03-10T20:34:48"
+ },
+ {
+  "id": "T-4151",
+  "subject": "Mobile upload fails on large files",
+  "tier": "enterprise",
+  "sla_hours": 4,
+  "opened_at": "2026-03-13T06:37:48"
+ },
+ {
+  "id": "T-4152",
+  "subject": "API 429s under normal load",
+  "tier": "enterprise",
+  "sla_hours": 4,
+  "opened_at": "2026-03-13T22:42:36"
+ },
+ {
+  "id": "T-4153",
+  "subject": "Webhook retries duplicating",
+  "tier": "free",
+  "sla_hours": 24,
+  "opened_at": "2026-03-10T17:19:12"
+ },
+ {
+  "id": "T-4154",
+  "subject": "Report totals off by one day",
+  "tier": "business",
+  "sla_hours": 24,
+  "opened_at": "2026-03-12T10:16:48"
+ },
+ {
+  "id": "T-4155",
+  "subject": "Webhook retries duplicating",
+  "tier": "free",
+  "sla_hours": 4,
+  "opened_at": "2026-03-12T09:16:48"
+ },
+ {
+  "id": "T-4156",
+  "subject": "Search misses exact matches",
+  "tier": "free",
+  "sla_hours": 8,
+  "opened_at": "2026-03-11T03:52:48"
+ },
+ {
+  "id": "T-4157",
+  "subject": "API 429s under normal load",
+  "tier": "business",
+  "sla_hours": 8,
+  "opened_at": "2026-03-12T14:04:12"
+ },
+ {
+  "id": "T-4158",
+  "subject": "Report totals off by one day",
+  "tier": "business",
+  "sla_hours": 8,
+  "opened_at": "2026-03-12T21:16:12"
+ },
+ {
+  "id": "T-4159",
+  "subject": "Report totals off by one day",
+  "tier": "free",
+  "sla_hours": 48,
+  "opened_at": "2026-03-12T15:39:36"
+ },
+ {
+  "id": "T-4160",
+  "subject": "Export times out over 50k rows",
+  "tier": "free",
+  "sla_hours": 48,
+  "opened_at": "2026-03-10T20:55:12"
+ },
+ {
+  "id": "T-4161",
+  "subject": "Search misses exact matches",
+  "tier": "free",
+  "sla_hours": 48,
+  "opened_at": "2026-03-12T02:37:12"
+ },
+ {
+  "id": "T-4162",
+  "subject": "Login loop after SSO change",
+  "tier": "enterprise",
+  "sla_hours": 8,
+  "opened_at": "2026-03-13T03:57:36"
+ },
+ {
+  "id": "T-4163",
+  "subject": "Export times out over 50k rows",
+  "tier": "free",
+  "sla_hours": 48,
+  "opened_at": "2026-03-10T17:31:48"
+ },
+ {
+  "id": "T-4164",
+  "subject": "Report totals off by one day",
+  "tier": "business",
+  "sla_hours": 8,
+  "opened_at": "2026-03-11T11:15:36"
+ },
+ {
+  "id": "T-4165",
+  "subject": "Report totals off by one day",
+  "tier": "business",
+  "sla_hours": 4,
+  "opened_at": "2026-03-13T11:36:36"
+ },
+ {
+  "id": "T-4166",
+  "subject": "Search misses exact matches",
+  "tier": "free",
+  "sla_hours": 24,
+  "opened_at": "2026-03-13T01:42:36"
+ },
+ {
+  "id": "T-4167",
+  "subject": "API 429s under normal load",
+  "tier": "free",
+  "sla_hours": 8,
+  "opened_at": "2026-03-12T14:40:12"
+ },
+ {
+  "id": "T-4168",
+  "subject": "Billing address won't save",
+  "tier": "enterprise",
+  "sla_hours": 24,
+  "opened_at": "2026-03-12T18:20:24"
+ },
+ {
+  "id": "T-4169",
+  "subject": "Mobile upload fails on large files",
+  "tier": "free",
+  "sla_hours": 8,
+  "opened_at": "2026-03-14T06:12:00"
+ },
+ {
+  "id": "T-4170",
+  "subject": "Report totals off by one day",
+  "tier": "free",
+  "sla_hours": 8,
+  "opened_at": "2026-03-11T09:56:24"
+ },
+ {
+  "id": "T-4171",
+  "subject": "Webhook retries duplicating",
+  "tier": "business",
+  "sla_hours": 48,
+  "opened_at": "2026-03-11T00:37:48"
+ },
+ {
+  "id": "T-4172",
+  "subject": "API 429s under normal load",
+  "tier": "free",
+  "sla_hours": 8,
+  "opened_at": "2026-03-10T20:22:12"
+ },
+ {
+  "id": "T-4173",
+  "subject": "Webhook retries duplicating",
+  "tier": "free",
+  "sla_hours": 4,
+  "opened_at": "2026-03-12T07:15:36"
+ },
+ {
+  "id": "T-4174",
+  "subject": "Mobile upload fails on large files",
+  "tier": "enterprise",
+  "sla_hours": 24,
+  "opened_at": "2026-03-11T18:18:36"
+ },
+ {
+  "id": "T-4175",
+  "subject": "Export times out over 50k rows",
+  "tier": "business",
+  "sla_hours": 24,
+  "opened_at": "2026-03-11T05:14:24"
+ },
+ {
+  "id": "T-4176",
+  "subject": "Report totals off by one day",
+  "tier": "enterprise",
+  "sla_hours": 8,
+  "opened_at": "2026-03-11T10:06:36"
+ },
+ {
+  "id": "T-4177",
+  "subject": "Mobile upload fails on large files",
+  "tier": "business",
+  "sla_hours": 8,
+  "opened_at": "2026-03-13T23:11:24"
+ },
+ {
+  "id": "T-4178",
+  "subject": "Report totals off by one day",
+  "tier": "free",
+  "sla_hours": 48,
+  "opened_at": "2026-03-12T09:48:00"
+ },
+ {
+  "id": "T-4179",
+  "subject": "Report totals off by one day",
+  "tier": "free",
+  "sla_hours": 48,
+  "opened_at": "2026-03-12T23:01:48"
+ },
+ {
+  "id": "T-4180",
+  "subject": "Export times out over 50k rows",
+  "tier": "free",
+  "sla_hours": 4,
+  "opened_at": "2026-03-12T09:53:24"
+ },
+ {
+  "id": "T-4181",
+  "subject": "Report totals off by one day",
+  "tier": "free",
+  "sla_hours": 48,
+  "opened_at": "2026-03-12T17:17:24"
+ },
+ {
+  "id": "T-4182",
+  "subject": "Search misses exact matches",
+  "tier": "free",
+  "sla_hours": 4,
+  "opened_at": "2026-03-11T00:52:12"
+ },
+ {
+  "id": "T-4183",
+  "subject": "Login loop after SSO change",
+  "tier": "free",
+  "sla_hours": 48,
+  "opened_at": "2026-03-12T06:28:12"
+ },
+ {
+  "id": "T-4184",
+  "subject": "Webhook retries duplicating",
+  "tier": "business",
+  "sla_hours": 8,
+  "opened_at": "2026-03-10T16:18:00"
+ },
+ {
+  "id": "T-4185",
+  "subject": "Mobile upload fails on large files",
+  "tier": "free",
+  "sla_hours": 24,
+  "opened_at": "2026-03-10T09:51:36"
+ },
+ {
+  "id": "T-4186",
+  "subject": "Mobile upload fails on large files",
+  "tier": "free",
+  "sla_hours": 24,
+  "opened_at": "2026-03-13T12:58:48"
+ },
+ {
+  "id": "T-4187",
+  "subject": "Login loop after SSO change",
+  "tier": "free",
+  "sla_hours": 4,
+  "opened_at": "2026-03-10T11:53:24"
+ },
+ {
+  "id": "T-4188",
+  "subject": "Webhook retries duplicating",
+  "tier": "free",
+  "sla_hours": 8,
+  "opened_at": "2026-03-13T03:31:12"
+ },
+ {
+  "id": "T-4189",
+  "subject": "Search misses exact matches",
+  "tier": "enterprise",
+  "sla_hours": 48,
+  "opened_at": "2026-03-10T17:23:24"
+ },
+ {
+  "id": "T-4190",
+  "subject": "Login loop after SSO change",
+  "tier": "business",
+  "sla_hours": 8,
+  "opened_at": "2026-03-10T17:39:36"
+ },
+ {
+  "id": "T-4191",
+  "subject": "Billing address won't save",
+  "tier": "free",
+  "sla_hours": 48,
+  "opened_at": "2026-03-13T14:52:48"
+ },
+ {
+  "id": "T-4192",
+  "subject": "Billing address won't save",
+  "tier": "free",
+  "sla_hours": 24,
+  "opened_at": "2026-03-11T23:42:00"
+ },
+ {
+  "id": "T-4193",
+  "subject": "API 429s under normal load",
+  "tier": "free",
+  "sla_hours": 48,
+  "opened_at": "2026-03-12T18:03:36"
+ },
+ {
+  "id": "T-4194",
+  "subject": "Search misses exact matches",
+  "tier": "free",
+  "sla_hours": 24,
+  "opened_at": "2026-03-10T23:00:00"
+ },
+ {
+  "id": "T-4195",
+  "subject": "Export times out over 50k rows",
+  "tier": "free",
+  "sla_hours": 8,
+  "opened_at": "2026-03-11T17:27:00"
+ },
+ {
+  "id": "T-4196",
+  "subject": "Billing address won't save",
+  "tier": "free",
+  "sla_hours": 48,
+  "opened_at": "2026-03-12T18:21:00"
+ },
+ {
+  "id": "T-4197",
+  "subject": "API 429s under normal load",
+  "tier": "free",
+  "sla_hours": 4,
+  "opened_at": "2026-03-10T11:17:24"
+ },
+ {
+  "id": "T-4198",
+  "subject": "Billing address won't save",
+  "tier": "free",
+  "sla_hours": 48,
+  "opened_at": "2026-03-11T17:42:00"
+ },
+ {
+  "id": "T-4199",
+  "subject": "Search misses exact matches",
+  "tier": "free",
+  "sla_hours": 48,
+  "opened_at": "2026-03-10T18:03:00"
+ },
+ {
+  "id": "T-4200",
+  "subject": "Webhook retries duplicating",
+  "tier": "free",
+  "sla_hours": 24,
+  "opened_at": "2026-03-11T22:37:12"
+ },
+ {
+  "id": "T-4201",
+  "subject": "Webhook retries duplicating",
+  "tier": "free",
+  "sla_hours": 24,
+  "opened_at": "2026-03-13T18:40:48"
+ },
+ {
+  "id": "T-4202",
+  "subject": "Login loop after SSO change",
+  "tier": "business",
+  "sla_hours": 8,
+  "opened_at": "2026-03-12T07:13:48"
+ },
+ {
+  "id": "T-4203",
+  "subject": "Webhook retries duplicating",
+  "tier": "free",
+  "sla_hours": 4,
+  "opened_at": "2026-03-14T08:22:12"
+ },
+ {
+  "id": "T-4204",
+  "subject": "Export times out over 50k rows",
+  "tier": "free",
+  "sla_hours": 48,
+  "opened_at": "2026-03-12T22:54:36"
+ },
+ {
+  "id": "T-4205",
+  "subject": "API 429s under normal load",
+  "tier": "enterprise",
+  "sla_hours": 8,
+  "opened_at": "2026-03-14T00:35:24"
+ },
+ {
+  "id": "T-4206",
+  "subject": "Export times out over 50k rows",
+  "tier": "free",
+  "sla_hours": 48,
+  "opened_at": "2026-03-12T16:40:48"
+ },
+ {
+  "id": "T-4207",
+  "subject": "Mobile upload fails on large files",
+  "tier": "free",
+  "sla_hours": 8,
+  "opened_at": "2026-03-13T12:36:00"
+ },
+ {
+  "id": "T-4208",
+  "subject": "API 429s under normal load",
+  "tier": "business",
+  "sla_hours": 48,
+  "opened_at": "2026-03-10T14:06:00"
+ },
+ {
+  "id": "T-4209",
+  "subject": "API 429s under normal load",
+  "tier": "free",
+  "sla_hours": 4,
+  "opened_at": "2026-03-14T01:14:24"
+ },
+ {
+  "id": "T-4210",
+  "subject": "Webhook retries duplicating",
+  "tier": "business",
+  "sla_hours": 48,
+  "opened_at": "2026-03-12T22:09:00"
+ },
+ {
+  "id": "T-4211",
+  "subject": "Export times out over 50k rows",
+  "tier": "free",
+  "sla_hours": 4,
+  "opened_at": "2026-03-11T15:57:36"
+ },
+ {
+  "id": "T-4212",
+  "subject": "Search misses exact matches",
+  "tier": "business",
+  "sla_hours": 4,
+  "opened_at": "2026-03-10T22:01:12"
+ },
+ {
+  "id": "T-4213",
+  "subject": "Login loop after SSO change",
+  "tier": "free",
+  "sla_hours": 8,
+  "opened_at": "2026-03-12T12:45:00"
+ },
+ {
+  "id": "T-4214",
+  "subject": "Webhook retries duplicating",
+  "tier": "business",
+  "sla_hours": 48,
+  "opened_at": "2026-03-10T18:24:00"
+ },
+ {
+  "id": "T-4215",
+  "subject": "API 429s under normal load",
+  "tier": "free",
+  "sla_hours": 48,
+  "opened_at": "2026-03-10T14:58:12"
+ },
+ {
+  "id": "T-4216",
+  "subject": "Export times out over 50k rows",
+  "tier": "business",
+  "sla_hours": 8,
+  "opened_at": "2026-03-12T03:26:24"
+ },
+ {
+  "id": "T-4217",
+  "subject": "Export times out over 50k rows",
+  "tier": "business",
+  "sla_hours": 24,
+  "opened_at": "2026-03-12T20:32:24"
+ },
+ {
+  "id": "T-4218",
+  "subject": "Report totals off by one day",
+  "tier": "free",
+  "sla_hours": 48,
+  "opened_at": "2026-03-12T02:45:00"
+ },
+ {
+  "id": "T-4219",
+  "subject": "Webhook retries duplicating",
+  "tier": "free",
+  "sla_hours": 8,
+  "opened_at": "2026-03-13T23:41:24"
+ },
+ {
+  "id": "T-4220",
+  "subject": "Webhook retries duplicating",
+  "tier": "business",
+  "sla_hours": 48,
+  "opened_at": "2026-03-11T15:46:48"
+ },
+ {
+  "id": "T-4221",
+  "subject": "Search misses exact matches",
+  "tier": "free",
+  "sla_hours": 4,
+  "opened_at": "2026-03-14T05:01:12"
+ },
+ {
+  "id": "T-4222",
+  "subject": "Login loop after SSO change",
+  "tier": "business",
+  "sla_hours": 4,
+  "opened_at": "2026-03-13T22:54:36"
+ },
+ {
+  "id": "T-4223",
+  "subject": "Export times out over 50k rows",
+  "tier": "business",
+  "sla_hours": 48,
+  "opened_at": "2026-03-12T15:04:12"
+ },
+ {
+  "id": "T-4224",
+  "subject": "Webhook retries duplicating",
+  "tier": "free",
+  "sla_hours": 8,
+  "opened_at": "2026-03-10T15:58:48"
+ },
+ {
+  "id": "T-4225",
+  "subject": "Mobile upload fails on large files",
+  "tier": "free",
+  "sla_hours": 48,
+  "opened_at": "2026-03-11T02:04:48"
+ },
+ {
+  "id": "T-4226",
+  "subject": "Mobile upload fails on large files",
+  "tier": "free",
+  "sla_hours": 24,
+  "opened_at": "2026-03-11T21:00:00"
+ },
+ {
+  "id": "T-4227",
+  "subject": "Billing address won't save",
+  "tier": "free",
+  "sla_hours": 4,
+  "opened_at": "2026-03-10T10:43:12"
+ },
+ {
+  "id": "T-4228",
+  "subject": "Billing address won't save",
+  "tier": "business",
+  "sla_hours": 48,
+  "opened_at": "2026-03-13T07:36:00"
+ },
+ {
+  "id": "T-4229",
+  "subject": "Mobile upload fails on large files",
+  "tier": "business",
+  "sla_hours": 24,
+  "opened_at": "2026-03-13T22:21:00"
+ },
+ {
+  "id": "T-4230",
+  "subject": "Export times out over 50k rows",
+  "tier": "free",
+  "sla_hours": 8,
+  "opened_at": "2026-03-11T05:11:24"
+ },
+ {
+  "id": "T-4231",
+  "subject": "API 429s under normal load",
+  "tier": "free",
+  "sla_hours": 24,
+  "opened_at": "2026-03-13T08:15:00"
+ },
+ {
+  "id": "T-4232",
+  "subject": "Webhook retries duplicating",
+  "tier": "free",
+  "sla_hours": 8,
+  "opened_at": "2026-03-11T22:03:00"
+ },
+ {
+  "id": "T-4233",
+  "subject": "Billing address won't save",
+  "tier": "free",
+  "sla_hours": 4,
+  "opened_at": "2026-03-10T10:15:36"
+ },
+ {
+  "id": "T-4234",
+  "subject": "Billing address won't save",
+  "tier": "free",
+  "sla_hours": 8,
+  "opened_at": "2026-03-11T20:36:36"
+ },
+ {
+  "id": "T-4235",
+  "subject": "Mobile upload fails on large files",
+  "tier": "free",
+  "sla_hours": 24,
+  "opened_at": "2026-03-13T09:08:24"
+ },
+ {
+  "id": "T-4236",
+  "subject": "Report totals off by one day",
+  "tier": "business",
+  "sla_hours": 4,
+  "opened_at": "2026-03-13T23:44:24"
+ },
+ {
+  "id": "T-4237",
+  "subject": "Webhook retries duplicating",
+  "tier": "business",
+  "sla_hours": 4,
+  "opened_at": "2026-03-12T13:18:36"
+ },
+ {
+  "id": "T-4238",
+  "subject": "API 429s under normal load",
+  "tier": "business",
+  "sla_hours": 24,
+  "opened_at": "2026-03-12T02:59:24"
+ },
+ {
+  "id": "T-4239",
+  "subject": "Export times out over 50k rows",
+  "tier": "free",
+  "sla_hours": 4,
+  "opened_at": "2026-03-11T23:03:36"
+ }
+]
