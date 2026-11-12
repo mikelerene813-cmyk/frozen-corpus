@@ -1,0 +1,1409 @@
+{
+ "meta": {
+  "frozen_now": "2026-03-14T02:00:00",
+  "n_records": 200,
+  "n_rows": 200
+ },
+ "records": {
+  "L-7000": {
+   "eta_h": 20.88,
+   "needs_break": true,
+   "slack_h": -3.5,
+   "status": "late",
+   "why": "Projected 3.5 h past the appointment once the required 10-hour break is counted. Call the receiver now and look for a recovery driver."
+  },
+  "L-7001": {
+   "eta_h": 57.63,
+   "needs_break": true,
+   "slack_h": 8.38,
+   "status": "on_time",
+   "why": "8.4 h of cushion. Nothing to do yet."
+  },
+  "L-7002": {
+   "eta_h": 6.8,
+   "needs_break": false,
+   "slack_h": 11.89,
+   "status": "on_time",
+   "why": "11.9 h of cushion. Nothing to do yet."
+  },
+  "L-7003": {
+   "eta_h": 18.53,
+   "needs_break": true,
+   "slack_h": 1.78,
+   "status": "at_risk",
+   "why": "Only 1.8 h of cushion with a 10-hour break in the plan. One slow stretch and it misses."
+  },
+  "L-7004": {
+   "eta_h": 0.85,
+   "needs_break": false,
+   "slack_h": 3.01,
+   "status": "on_time",
+   "why": "3.0 h of cushion. Nothing to do yet."
+  },
+  "L-7005": {
+   "eta_h": 13.57,
+   "needs_break": true,
+   "slack_h": 10.52,
+   "status": "on_time",
+   "why": "10.5 h of cushion. Nothing to do yet."
+  },
+  "L-7006": {
+   "eta_h": 57.39,
+   "needs_break": true,
+   "slack_h": 11.72,
+   "status": "on_time",
+   "why": "11.7 h of cushion. Nothing to do yet."
+  },
+  "L-7007": {
+   "eta_h": 15.94,
+   "needs_break": true,
+   "slack_h": 0.94,
+   "status": "at_risk",
+   "why": "Only 0.9 h of cushion with a 10-hour break in the plan. One slow stretch and it misses."
+  },
+  "L-7008": {
+   "eta_h": 19.11,
+   "needs_break": true,
+   "slack_h": 7.54,
+   "status": "on_time",
+   "why": "7.5 h of cushion. Nothing to do yet."
+  },
+  "L-7009": {
+   "eta_h": 37.71,
+   "needs_break": true,
+   "slack_h": 13.01,
+   "status": "on_time",
+   "why": "13.0 h of cushion. Nothing to do yet."
+  },
+  "L-7010": {
+   "eta_h": 22.3,
+   "needs_break": true,
+   "slack_h": 0.2,
+   "status": "at_risk",
+   "why": "Only 0.2 h of cushion with a 10-hour break in the plan. One slow stretch and it misses."
+  },
+  "L-7011": {
+   "eta_h": 1.84,
+   "needs_break": false,
+   "slack_h": 8.88,
+   "status": "on_time",
+   "why": "8.9 h of cushion. Nothing to do yet."
+  },
+  "L-7012": {
+   "eta_h": 41.28,
+   "needs_break": true,
+   "slack_h": 2.21,
+   "status": "on_time",
+   "why": "2.2 h of cushion. Nothing to do yet."
+  },
+  "L-7013": {
+   "eta_h": 15.2,
+   "needs_break": true,
+   "slack_h": 2.23,
+   "status": "on_time",
+   "why": "2.2 h of cushion. Nothing to do yet."
+  },
+  "L-7014": {
+   "eta_h": 41.49,
+   "needs_break": true,
+   "slack_h": 7.57,
+   "status": "on_time",
+   "why": "7.6 h of cushion. Nothing to do yet."
+  },
+  "L-7015": {
+   "eta_h": 26.29,
+   "needs_break": true,
+   "slack_h": 3.24,
+   "status": "on_time",
+   "why": "3.2 h of cushion. Nothing to do yet."
+  },
+  "L-7016": {
+   "eta_h": 22.24,
+   "needs_break": true,
+   "slack_h": 3.9,
+   "status": "on_time",
+   "why": "3.9 h of cushion. Nothing to do yet."
+  },
+  "L-7017": {
+   "eta_h": 42.74,
+   "needs_break": true,
+   "slack_h": 3.54,
+   "status": "on_time",
+   "why": "3.5 h of cushion. Nothing to do yet."
+  },
+  "L-7018": {
+   "eta_h": 43.35,
+   "needs_break": true,
+   "slack_h": 5.01,
+   "status": "on_time",
+   "why": "5.0 h of cushion. Nothing to do yet."
+  },
+  "L-7019": {
+   "eta_h": 35.86,
+   "needs_break": true,
+   "slack_h": -0.13,
+   "status": "late",
+   "why": "Projected 0.1 h past the appointment once the required 10-hour break is counted. Call the receiver now and look for a recovery driver."
+  },
+  "L-7020": {
+   "eta_h": 7.06,
+   "needs_break": false,
+   "slack_h": 11.72,
+   "status": "on_time",
+   "why": "11.7 h of cushion. Nothing to do yet."
+  },
+  "L-7021": {
+   "eta_h": 15.34,
+   "needs_break": true,
+   "slack_h": 4.53,
+   "status": "on_time",
+   "why": "4.5 h of cushion. Nothing to do yet."
+  },
+  "L-7022": {
+   "eta_h": 19.13,
+   "needs_break": true,
+   "slack_h": 1.3,
+   "status": "at_risk",
+   "why": "Only 1.3 h of cushion with a 10-hour break in the plan. One slow stretch and it misses."
+  },
+  "L-7023": {
+   "eta_h": 41.4,
+   "needs_break": true,
+   "slack_h": 0.01,
+   "status": "at_risk",
+   "why": "Only 0.0 h of cushion with a 10-hour break in the plan. One slow stretch and it misses."
+  },
+  "L-7024": {
+   "eta_h": 32.84,
+   "needs_break": true,
+   "slack_h": 0.49,
+   "status": "at_risk",
+   "why": "Only 0.5 h of cushion with a 10-hour break in the plan. One slow stretch and it misses."
+  },
+  "L-7025": {
+   "eta_h": 21.1,
+   "needs_break": true,
+   "slack_h": 1.98,
+   "status": "at_risk",
+   "why": "Only 2.0 h of cushion with a 10-hour break in the plan. One slow stretch and it misses."
+  },
+  "L-7026": {
+   "eta_h": 14.69,
+   "needs_break": true,
+   "slack_h": 7.46,
+   "status": "on_time",
+   "why": "7.5 h of cushion. Nothing to do yet."
+  },
+  "L-7027": {
+   "eta_h": 35.58,
+   "needs_break": true,
+   "slack_h": -1.99,
+   "status": "late",
+   "why": "Projected 2.0 h past the appointment once the required 10-hour break is counted. Call the receiver now and look for a recovery driver."
+  },
+  "L-7028": {
+   "eta_h": 22.27,
+   "needs_break": true,
+   "slack_h": 1.23,
+   "status": "at_risk",
+   "why": "Only 1.2 h of cushion with a 10-hour break in the plan. One slow stretch and it misses."
+  },
+  "L-7029": {
+   "eta_h": 39.77,
+   "needs_break": true,
+   "slack_h": 6.12,
+   "status": "on_time",
+   "why": "6.1 h of cushion. Nothing to do yet."
+  },
+  "L-7030": {
+   "eta_h": 39.38,
+   "needs_break": true,
+   "slack_h": 7.71,
+   "status": "on_time",
+   "why": "7.7 h of cushion. Nothing to do yet."
+  },
+  "L-7031": {
+   "eta_h": 23.17,
+   "needs_break": true,
+   "slack_h": 0.49,
+   "status": "at_risk",
+   "why": "Only 0.5 h of cushion with a 10-hour break in the plan. One slow stretch and it misses."
+  },
+  "L-7032": {
+   "eta_h": 20.5,
+   "needs_break": true,
+   "slack_h": 6.56,
+   "status": "on_time",
+   "why": "6.6 h of cushion. Nothing to do yet."
+  },
+  "L-7033": {
+   "eta_h": 43.15,
+   "needs_break": true,
+   "slack_h": 11.26,
+   "status": "on_time",
+   "why": "11.3 h of cushion. Nothing to do yet."
+  },
+  "L-7034": {
+   "eta_h": 43.23,
+   "needs_break": true,
+   "slack_h": 7.29,
+   "status": "on_time",
+   "why": "7.3 h of cushion. Nothing to do yet."
+  },
+  "L-7035": {
+   "eta_h": 39.33,
+   "needs_break": true,
+   "slack_h": -2.89,
+   "status": "late",
+   "why": "Projected 2.9 h past the appointment once the required 10-hour break is counted. Call the receiver now and look for a recovery driver."
+  },
+  "L-7036": {
+   "eta_h": 1.61,
+   "needs_break": false,
+   "slack_h": 0.95,
+   "status": "at_risk",
+   "why": "Only 0.9 h of cushion. One slow stretch and it misses."
+  },
+  "L-7037": {
+   "eta_h": 18.63,
+   "needs_break": true,
+   "slack_h": 8.86,
+   "status": "on_time",
+   "why": "8.9 h of cushion. Nothing to do yet."
+  },
+  "L-7038": {
+   "eta_h": 26.51,
+   "needs_break": true,
+   "slack_h": -0.79,
+   "status": "late",
+   "why": "Projected 0.8 h past the appointment once the required 10-hour break is counted. Call the receiver now and look for a recovery driver."
+  },
+  "L-7039": {
+   "eta_h": 33.54,
+   "needs_break": true,
+   "slack_h": -2.74,
+   "status": "late",
+   "why": "Projected 2.7 h past the appointment once the required 10-hour break is counted. Call the receiver now and look for a recovery driver."
+  },
+  "L-7040": {
+   "eta_h": 36.67,
+   "needs_break": true,
+   "slack_h": 0.97,
+   "status": "at_risk",
+   "why": "Only 1.0 h of cushion with a 10-hour break in the plan. One slow stretch and it misses."
+  },
+  "L-7041": {
+   "eta_h": 28.66,
+   "needs_break": true,
+   "slack_h": 4.65,
+   "status": "on_time",
+   "why": "4.7 h of cushion. Nothing to do yet."
+  },
+  "L-7042": {
+   "eta_h": 19.56,
+   "needs_break": true,
+   "slack_h": 7.19,
+   "status": "on_time",
+   "why": "7.2 h of cushion. Nothing to do yet."
+  },
+  "L-7043": {
+   "eta_h": 57.27,
+   "needs_break": true,
+   "slack_h": 12.73,
+   "status": "on_time",
+   "why": "12.7 h of cushion. Nothing to do yet."
+  },
+  "L-7044": {
+   "eta_h": 40.02,
+   "needs_break": true,
+   "slack_h": 2.9,
+   "status": "on_time",
+   "why": "2.9 h of cushion. Nothing to do yet."
+  },
+  "L-7045": {
+   "eta_h": 24.7,
+   "needs_break": true,
+   "slack_h": 5.38,
+   "status": "on_time",
+   "why": "5.4 h of cushion. Nothing to do yet."
+  },
+  "L-7046": {
+   "eta_h": 27.28,
+   "needs_break": true,
+   "slack_h": -0.31,
+   "status": "late",
+   "why": "Projected 0.3 h past the appointment once the required 10-hour break is counted. Call the receiver now and look for a recovery driver."
+  },
+  "L-7047": {
+   "eta_h": 1.4,
+   "needs_break": false,
+   "slack_h": 13.59,
+   "status": "on_time",
+   "why": "13.6 h of cushion. Nothing to do yet."
+  },
+  "L-7048": {
+   "eta_h": 41.89,
+   "needs_break": true,
+   "slack_h": 13.0,
+   "status": "on_time",
+   "why": "13.0 h of cushion. Nothing to do yet."
+  },
+  "L-7049": {
+   "eta_h": 46.96,
+   "needs_break": true,
+   "slack_h": 7.06,
+   "status": "on_time",
+   "why": "7.1 h of cushion. Nothing to do yet."
+  },
+  "L-7050": {
+   "eta_h": 45.37,
+   "needs_break": true,
+   "slack_h": 0.18,
+   "status": "at_risk",
+   "why": "Only 0.2 h of cushion with a 10-hour break in the plan. One slow stretch and it misses."
+  },
+  "L-7051": {
+   "eta_h": 38.76,
+   "needs_break": true,
+   "slack_h": 5.52,
+   "status": "on_time",
+   "why": "5.5 h of cushion. Nothing to do yet."
+  },
+  "L-7052": {
+   "eta_h": 41.99,
+   "needs_break": true,
+   "slack_h": 1.96,
+   "status": "at_risk",
+   "why": "Only 2.0 h of cushion with a 10-hour break in the plan. One slow stretch and it misses."
+  },
+  "L-7053": {
+   "eta_h": 3.6,
+   "needs_break": false,
+   "slack_h": 0.4,
+   "status": "at_risk",
+   "why": "Only 0.4 h of cushion. One slow stretch and it misses."
+  },
+  "L-7054": {
+   "eta_h": 23.98,
+   "needs_break": true,
+   "slack_h": 1.24,
+   "status": "at_risk",
+   "why": "Only 1.2 h of cushion with a 10-hour break in the plan. One slow stretch and it misses."
+  },
+  "L-7055": {
+   "eta_h": 28.58,
+   "needs_break": true,
+   "slack_h": 0.76,
+   "status": "at_risk",
+   "why": "Only 0.8 h of cushion with a 10-hour break in the plan. One slow stretch and it misses."
+  },
+  "L-7056": {
+   "eta_h": 4.38,
+   "needs_break": false,
+   "slack_h": -1.5,
+   "status": "late",
+   "why": "Projected 1.5 h past the appointment even before the required 10-hour break is counted. Call the receiver now and look for a recovery driver."
+  },
+  "L-7057": {
+   "eta_h": 44.46,
+   "needs_break": true,
+   "slack_h": 0.63,
+   "status": "at_risk",
+   "why": "Only 0.6 h of cushion with a 10-hour break in the plan. One slow stretch and it misses."
+  },
+  "L-7058": {
+   "eta_h": 44.44,
+   "needs_break": true,
+   "slack_h": 8.14,
+   "status": "on_time",
+   "why": "8.1 h of cushion. Nothing to do yet."
+  },
+  "L-7059": {
+   "eta_h": 15.36,
+   "needs_break": true,
+   "slack_h": -1.21,
+   "status": "late",
+   "why": "Projected 1.2 h past the appointment once the required 10-hour break is counted. Call the receiver now and look for a recovery driver."
+  },
+  "L-7060": {
+   "eta_h": 47.89,
+   "needs_break": true,
+   "slack_h": 12.33,
+   "status": "on_time",
+   "why": "12.3 h of cushion. Nothing to do yet."
+  },
+  "L-7061": {
+   "eta_h": 47.84,
+   "needs_break": true,
+   "slack_h": 0.27,
+   "status": "at_risk",
+   "why": "Only 0.3 h of cushion with a 10-hour break in the plan. One slow stretch and it misses."
+  },
+  "L-7062": {
+   "eta_h": 54.73,
+   "needs_break": true,
+   "slack_h": 2.64,
+   "status": "on_time",
+   "why": "2.6 h of cushion. Nothing to do yet."
+  },
+  "L-7063": {
+   "eta_h": 36.15,
+   "needs_break": true,
+   "slack_h": 10.47,
+   "status": "on_time",
+   "why": "10.5 h of cushion. Nothing to do yet."
+  },
+  "L-7064": {
+   "eta_h": 12.61,
+   "needs_break": true,
+   "slack_h": 8.55,
+   "status": "on_time",
+   "why": "8.6 h of cushion. Nothing to do yet."
+  },
+  "L-7065": {
+   "eta_h": 19.59,
+   "needs_break": true,
+   "slack_h": -1.71,
+   "status": "late",
+   "why": "Projected 1.7 h past the appointment once the required 10-hour break is counted. Call the receiver now and look for a recovery driver."
+  },
+  "L-7066": {
+   "eta_h": 23.05,
+   "needs_break": true,
+   "slack_h": 2.37,
+   "status": "on_time",
+   "why": "2.4 h of cushion. Nothing to do yet."
+  },
+  "L-7067": {
+   "eta_h": 2.11,
+   "needs_break": false,
+   "slack_h": 11.85,
+   "status": "on_time",
+   "why": "11.8 h of cushion. Nothing to do yet."
+  },
+  "L-7068": {
+   "eta_h": 44.06,
+   "needs_break": true,
+   "slack_h": -2.91,
+   "status": "late",
+   "why": "Projected 2.9 h past the appointment once the required 10-hour break is counted. Call the receiver now and look for a recovery driver."
+  },
+  "L-7069": {
+   "eta_h": 38.1,
+   "needs_break": true,
+   "slack_h": 1.95,
+   "status": "at_risk",
+   "why": "Only 1.9 h of cushion with a 10-hour break in the plan. One slow stretch and it misses."
+  },
+  "L-7070": {
+   "eta_h": 39.16,
+   "needs_break": true,
+   "slack_h": -1.6,
+   "status": "late",
+   "why": "Projected 1.6 h past the appointment once the required 10-hour break is counted. Call the receiver now and look for a recovery driver."
+  },
+  "L-7071": {
+   "eta_h": 18.82,
+   "needs_break": true,
+   "slack_h": 4.19,
+   "status": "on_time",
+   "why": "4.2 h of cushion. Nothing to do yet."
+  },
+  "L-7072": {
+   "eta_h": 21.19,
+   "needs_break": true,
+   "slack_h": 0.4,
+   "status": "at_risk",
+   "why": "Only 0.4 h of cushion with a 10-hour break in the plan. One slow stretch and it misses."
+  },
+  "L-7073": {
+   "eta_h": 22.74,
+   "needs_break": true,
+   "slack_h": 12.16,
+   "status": "on_time",
+   "why": "12.2 h of cushion. Nothing to do yet."
+  },
+  "L-7074": {
+   "eta_h": 38.89,
+   "needs_break": true,
+   "slack_h": 3.17,
+   "status": "on_time",
+   "why": "3.2 h of cushion. Nothing to do yet."
+  },
+  "L-7075": {
+   "eta_h": 40.79,
+   "needs_break": true,
+   "slack_h": 12.11,
+   "status": "on_time",
+   "why": "12.1 h of cushion. Nothing to do yet."
+  },
+  "L-7076": {
+   "eta_h": 12.66,
+   "needs_break": true,
+   "slack_h": 10.82,
+   "status": "on_time",
+   "why": "10.8 h of cushion. Nothing to do yet."
+  },
+  "L-7077": {
+   "eta_h": 15.86,
+   "needs_break": true,
+   "slack_h": 2.02,
+   "status": "on_time",
+   "why": "2.0 h of cushion. Nothing to do yet."
+  },
+  "L-7078": {
+   "eta_h": 22.24,
+   "needs_break": true,
+   "slack_h": 8.17,
+   "status": "on_time",
+   "why": "8.2 h of cushion. Nothing to do yet."
+  },
+  "L-7079": {
+   "eta_h": 22.5,
+   "needs_break": true,
+   "slack_h": 13.45,
+   "status": "on_time",
+   "why": "13.4 h of cushion. Nothing to do yet."
+  },
+  "L-7080": {
+   "eta_h": 8.05,
+   "needs_break": false,
+   "slack_h": -3.33,
+   "status": "late",
+   "why": "Projected 3.3 h past the appointment even before the required 10-hour break is counted. Call the receiver now and look for a recovery driver."
+  },
+  "L-7081": {
+   "eta_h": 41.82,
+   "needs_break": true,
+   "slack_h": 13.39,
+   "status": "on_time",
+   "why": "13.4 h of cushion. Nothing to do yet."
+  },
+  "L-7082": {
+   "eta_h": 28.02,
+   "needs_break": true,
+   "slack_h": 1.29,
+   "status": "at_risk",
+   "why": "Only 1.3 h of cushion with a 10-hour break in the plan. One slow stretch and it misses."
+  },
+  "L-7083": {
+   "eta_h": 5.97,
+   "needs_break": false,
+   "slack_h": 0.93,
+   "status": "at_risk",
+   "why": "Only 0.9 h of cushion. One slow stretch and it misses."
+  },
+  "L-7084": {
+   "eta_h": 36.05,
+   "needs_break": true,
+   "slack_h": 10.92,
+   "status": "on_time",
+   "why": "10.9 h of cushion. Nothing to do yet."
+  },
+  "L-7085": {
+   "eta_h": 40.29,
+   "needs_break": true,
+   "slack_h": 13.28,
+   "status": "on_time",
+   "why": "13.3 h of cushion. Nothing to do yet."
+  },
+  "L-7086": {
+   "eta_h": 22.79,
+   "needs_break": true,
+   "slack_h": 10.43,
+   "status": "on_time",
+   "why": "10.4 h of cushion. Nothing to do yet."
+  },
+  "L-7087": {
+   "eta_h": 1.75,
+   "needs_break": false,
+   "slack_h": -0.75,
+   "status": "late",
+   "why": "Projected 0.8 h past the appointment even before the required 10-hour break is counted. Call the receiver now and look for a recovery driver."
+  },
+  "L-7088": {
+   "eta_h": 39.81,
+   "needs_break": true,
+   "slack_h": 13.47,
+   "status": "on_time",
+   "why": "13.5 h of cushion. Nothing to do yet."
+  },
+  "L-7089": {
+   "eta_h": 4.02,
+   "needs_break": false,
+   "slack_h": 8.29,
+   "status": "on_time",
+   "why": "8.3 h of cushion. Nothing to do yet."
+  },
+  "L-7090": {
+   "eta_h": 43.38,
+   "needs_break": true,
+   "slack_h": -3.99,
+   "status": "late",
+   "why": "Projected 4.0 h past the appointment once the required 10-hour break is counted. Call the receiver now and look for a recovery driver."
+  },
+  "L-7091": {
+   "eta_h": 35.58,
+   "needs_break": true,
+   "slack_h": -0.7,
+   "status": "late",
+   "why": "Projected 0.7 h past the appointment once the required 10-hour break is counted. Call the receiver now and look for a recovery driver."
+  },
+  "L-7092": {
+   "eta_h": 27.11,
+   "needs_break": true,
+   "slack_h": 7.78,
+   "status": "on_time",
+   "why": "7.8 h of cushion. Nothing to do yet."
+  },
+  "L-7093": {
+   "eta_h": 35.1,
+   "needs_break": true,
+   "slack_h": 2.54,
+   "status": "on_time",
+   "why": "2.5 h of cushion. Nothing to do yet."
+  },
+  "L-7094": {
+   "eta_h": 18.27,
+   "needs_break": true,
+   "slack_h": 10.0,
+   "status": "on_time",
+   "why": "10.0 h of cushion. Nothing to do yet."
+  },
+  "L-7095": {
+   "eta_h": 33.46,
+   "needs_break": true,
+   "slack_h": 3.92,
+   "status": "on_time",
+   "why": "3.9 h of cushion. Nothing to do yet."
+  },
+  "L-7096": {
+   "eta_h": 20.4,
+   "needs_break": true,
+   "slack_h": 0.62,
+   "status": "at_risk",
+   "why": "Only 0.6 h of cushion with a 10-hour break in the plan. One slow stretch and it misses."
+  },
+  "L-7097": {
+   "eta_h": 14.18,
+   "needs_break": true,
+   "slack_h": 5.47,
+   "status": "on_time",
+   "why": "5.5 h of cushion. Nothing to do yet."
+  },
+  "L-7098": {
+   "eta_h": 2.49,
+   "needs_break": false,
+   "slack_h": 10.12,
+   "status": "on_time",
+   "why": "10.1 h of cushion. Nothing to do yet."
+  },
+  "L-7099": {
+   "eta_h": 14.16,
+   "needs_break": true,
+   "slack_h": 12.18,
+   "status": "on_time",
+   "why": "12.2 h of cushion. Nothing to do yet."
+  },
+  "L-7100": {
+   "eta_h": 7.1,
+   "needs_break": false,
+   "slack_h": 1.36,
+   "status": "at_risk",
+   "why": "Only 1.4 h of cushion. One slow stretch and it misses."
+  },
+  "L-7101": {
+   "eta_h": 41.35,
+   "needs_break": true,
+   "slack_h": 11.22,
+   "status": "on_time",
+   "why": "11.2 h of cushion. Nothing to do yet."
+  },
+  "L-7102": {
+   "eta_h": 53.72,
+   "needs_break": true,
+   "slack_h": 11.95,
+   "status": "on_time",
+   "why": "11.9 h of cushion. Nothing to do yet."
+  },
+  "L-7103": {
+   "eta_h": 24.8,
+   "needs_break": true,
+   "slack_h": 3.14,
+   "status": "on_time",
+   "why": "3.1 h of cushion. Nothing to do yet."
+  },
+  "L-7104": {
+   "eta_h": 14.4,
+   "needs_break": true,
+   "slack_h": 0.55,
+   "status": "at_risk",
+   "why": "Only 0.6 h of cushion with a 10-hour break in the plan. One slow stretch and it misses."
+  },
+  "L-7105": {
+   "eta_h": 56.21,
+   "needs_break": true,
+   "slack_h": -3.57,
+   "status": "late",
+   "why": "Projected 3.6 h past the appointment once the required 10-hour break is counted. Call the receiver now and look for a recovery driver."
+  },
+  "L-7106": {
+   "eta_h": 14.75,
+   "needs_break": true,
+   "slack_h": 6.01,
+   "status": "on_time",
+   "why": "6.0 h of cushion. Nothing to do yet."
+  },
+  "L-7107": {
+   "eta_h": 15.72,
+   "needs_break": true,
+   "slack_h": 7.85,
+   "status": "on_time",
+   "why": "7.8 h of cushion. Nothing to do yet."
+  },
+  "L-7108": {
+   "eta_h": 30.62,
+   "needs_break": true,
+   "slack_h": -3.15,
+   "status": "late",
+   "why": "Projected 3.1 h past the appointment once the required 10-hour break is counted. Call the receiver now and look for a recovery driver."
+  },
+  "L-7109": {
+   "eta_h": 17.2,
+   "needs_break": true,
+   "slack_h": 12.02,
+   "status": "on_time",
+   "why": "12.0 h of cushion. Nothing to do yet."
+  },
+  "L-7110": {
+   "eta_h": 16.0,
+   "needs_break": true,
+   "slack_h": 1.89,
+   "status": "at_risk",
+   "why": "Only 1.9 h of cushion with a 10-hour break in the plan. One slow stretch and it misses."
+  },
+  "L-7111": {
+   "eta_h": 15.86,
+   "needs_break": true,
+   "slack_h": 6.34,
+   "status": "on_time",
+   "why": "6.3 h of cushion. Nothing to do yet."
+  },
+  "L-7112": {
+   "eta_h": 17.25,
+   "needs_break": true,
+   "slack_h": 6.68,
+   "status": "on_time",
+   "why": "6.7 h of cushion. Nothing to do yet."
+  },
+  "L-7113": {
+   "eta_h": 41.91,
+   "needs_break": true,
+   "slack_h": 6.23,
+   "status": "on_time",
+   "why": "6.2 h of cushion. Nothing to do yet."
+  },
+  "L-7114": {
+   "eta_h": 44.65,
+   "needs_break": true,
+   "slack_h": 1.55,
+   "status": "at_risk",
+   "why": "Only 1.6 h of cushion with a 10-hour break in the plan. One slow stretch and it misses."
+  },
+  "L-7115": {
+   "eta_h": 5.53,
+   "needs_break": false,
+   "slack_h": -1.79,
+   "status": "late",
+   "why": "Projected 1.8 h past the appointment even before the required 10-hour break is counted. Call the receiver now and look for a recovery driver."
+  },
+  "L-7116": {
+   "eta_h": 26.12,
+   "needs_break": true,
+   "slack_h": 3.38,
+   "status": "on_time",
+   "why": "3.4 h of cushion. Nothing to do yet."
+  },
+  "L-7117": {
+   "eta_h": 15.65,
+   "needs_break": true,
+   "slack_h": 5.78,
+   "status": "on_time",
+   "why": "5.8 h of cushion. Nothing to do yet."
+  },
+  "L-7118": {
+   "eta_h": 17.33,
+   "needs_break": true,
+   "slack_h": 12.65,
+   "status": "on_time",
+   "why": "12.7 h of cushion. Nothing to do yet."
+  },
+  "L-7119": {
+   "eta_h": 42.14,
+   "needs_break": true,
+   "slack_h": 10.29,
+   "status": "on_time",
+   "why": "10.3 h of cushion. Nothing to do yet."
+  },
+  "L-7120": {
+   "eta_h": 17.76,
+   "needs_break": true,
+   "slack_h": 6.58,
+   "status": "on_time",
+   "why": "6.6 h of cushion. Nothing to do yet."
+  },
+  "L-7121": {
+   "eta_h": 40.87,
+   "needs_break": true,
+   "slack_h": 11.46,
+   "status": "on_time",
+   "why": "11.5 h of cushion. Nothing to do yet."
+  },
+  "L-7122": {
+   "eta_h": 41.87,
+   "needs_break": true,
+   "slack_h": 1.58,
+   "status": "at_risk",
+   "why": "Only 1.6 h of cushion with a 10-hour break in the plan. One slow stretch and it misses."
+  },
+  "L-7123": {
+   "eta_h": 42.38,
+   "needs_break": true,
+   "slack_h": 0.25,
+   "status": "at_risk",
+   "why": "Only 0.2 h of cushion with a 10-hour break in the plan. One slow stretch and it misses."
+  },
+  "L-7124": {
+   "eta_h": 0.83,
+   "needs_break": false,
+   "slack_h": 1.24,
+   "status": "at_risk",
+   "why": "Only 1.2 h of cushion. One slow stretch and it misses."
+  },
+  "L-7125": {
+   "eta_h": 38.63,
+   "needs_break": true,
+   "slack_h": 0.77,
+   "status": "at_risk",
+   "why": "Only 0.8 h of cushion with a 10-hour break in the plan. One slow stretch and it misses."
+  },
+  "L-7126": {
+   "eta_h": 34.74,
+   "needs_break": true,
+   "slack_h": 7.42,
+   "status": "on_time",
+   "why": "7.4 h of cushion. Nothing to do yet."
+  },
+  "L-7127": {
+   "eta_h": 41.53,
+   "needs_break": true,
+   "slack_h": -1.0,
+   "status": "late",
+   "why": "Projected 1.0 h past the appointment once the required 10-hour break is counted. Call the receiver now and look for a recovery driver."
+  },
+  "L-7128": {
+   "eta_h": 17.63,
+   "needs_break": true,
+   "slack_h": 10.52,
+   "status": "on_time",
+   "why": "10.5 h of cushion. Nothing to do yet."
+  },
+  "L-7129": {
+   "eta_h": 55.01,
+   "needs_break": true,
+   "slack_h": 2.62,
+   "status": "on_time",
+   "why": "2.6 h of cushion. Nothing to do yet."
+  },
+  "L-7130": {
+   "eta_h": 1.42,
+   "needs_break": false,
+   "slack_h": 6.88,
+   "status": "on_time",
+   "why": "6.9 h of cushion. Nothing to do yet."
+  },
+  "L-7131": {
+   "eta_h": 24.9,
+   "needs_break": true,
+   "slack_h": 4.83,
+   "status": "on_time",
+   "why": "4.8 h of cushion. Nothing to do yet."
+  },
+  "L-7132": {
+   "eta_h": 6.36,
+   "needs_break": false,
+   "slack_h": 1.02,
+   "status": "at_risk",
+   "why": "Only 1.0 h of cushion. One slow stretch and it misses."
+  },
+  "L-7133": {
+   "eta_h": 26.34,
+   "needs_break": true,
+   "slack_h": 13.09,
+   "status": "on_time",
+   "why": "13.1 h of cushion. Nothing to do yet."
+  },
+  "L-7134": {
+   "eta_h": 3.45,
+   "needs_break": false,
+   "slack_h": 10.36,
+   "status": "on_time",
+   "why": "10.4 h of cushion. Nothing to do yet."
+  },
+  "L-7135": {
+   "eta_h": 36.51,
+   "needs_break": true,
+   "slack_h": 3.02,
+   "status": "on_time",
+   "why": "3.0 h of cushion. Nothing to do yet."
+  },
+  "L-7136": {
+   "eta_h": 47.72,
+   "needs_break": true,
+   "slack_h": 1.97,
+   "status": "at_risk",
+   "why": "Only 2.0 h of cushion with a 10-hour break in the plan. One slow stretch and it misses."
+  },
+  "L-7137": {
+   "eta_h": 44.88,
+   "needs_break": true,
+   "slack_h": 1.38,
+   "status": "at_risk",
+   "why": "Only 1.4 h of cushion with a 10-hour break in the plan. One slow stretch and it misses."
+  },
+  "L-7138": {
+   "eta_h": 30.65,
+   "needs_break": true,
+   "slack_h": 11.79,
+   "status": "on_time",
+   "why": "11.8 h of cushion. Nothing to do yet."
+  },
+  "L-7139": {
+   "eta_h": 24.06,
+   "needs_break": true,
+   "slack_h": -2.62,
+   "status": "late",
+   "why": "Projected 2.6 h past the appointment once the required 10-hour break is counted. Call the receiver now and look for a recovery driver."
+  },
+  "L-7140": {
+   "eta_h": 17.44,
+   "needs_break": true,
+   "slack_h": 11.3,
+   "status": "on_time",
+   "why": "11.3 h of cushion. Nothing to do yet."
+  },
+  "L-7141": {
+   "eta_h": 39.92,
+   "needs_break": true,
+   "slack_h": 0.13,
+   "status": "at_risk",
+   "why": "Only 0.1 h of cushion with a 10-hour break in the plan. One slow stretch and it misses."
+  },
+  "L-7142": {
+   "eta_h": 1.63,
+   "needs_break": false,
+   "slack_h": 10.36,
+   "status": "on_time",
+   "why": "10.4 h of cushion. Nothing to do yet."
+  },
+  "L-7143": {
+   "eta_h": 42.29,
+   "needs_break": true,
+   "slack_h": 9.62,
+   "status": "on_time",
+   "why": "9.6 h of cushion. Nothing to do yet."
+  },
+  "L-7144": {
+   "eta_h": 45.0,
+   "needs_break": true,
+   "slack_h": 0.89,
+   "status": "at_risk",
+   "why": "Only 0.9 h of cushion with a 10-hour break in the plan. One slow stretch and it misses."
+  },
+  "L-7145": {
+   "eta_h": 21.03,
+   "needs_break": true,
+   "slack_h": -2.96,
+   "status": "late",
+   "why": "Projected 3.0 h past the appointment once the required 10-hour break is counted. Call the receiver now and look for a recovery driver."
+  },
+  "L-7146": {
+   "eta_h": 6.3,
+   "needs_break": false,
+   "slack_h": 8.58,
+   "status": "on_time",
+   "why": "8.6 h of cushion. Nothing to do yet."
+  },
+  "L-7147": {
+   "eta_h": 17.82,
+   "needs_break": true,
+   "slack_h": 0.15,
+   "status": "at_risk",
+   "why": "Only 0.1 h of cushion with a 10-hour break in the plan. One slow stretch and it misses."
+  },
+  "L-7148": {
+   "eta_h": 21.23,
+   "needs_break": true,
+   "slack_h": 2.57,
+   "status": "on_time",
+   "why": "2.6 h of cushion. Nothing to do yet."
+  },
+  "L-7149": {
+   "eta_h": 20.33,
+   "needs_break": true,
+   "slack_h": 8.43,
+   "status": "on_time",
+   "why": "8.4 h of cushion. Nothing to do yet."
+  },
+  "L-7150": {
+   "eta_h": 20.47,
+   "needs_break": true,
+   "slack_h": 13.91,
+   "status": "on_time",
+   "why": "13.9 h of cushion. Nothing to do yet."
+  },
+  "L-7151": {
+   "eta_h": 44.92,
+   "needs_break": true,
+   "slack_h": 9.86,
+   "status": "on_time",
+   "why": "9.9 h of cushion. Nothing to do yet."
+  },
+  "L-7152": {
+   "eta_h": 55.59,
+   "needs_break": true,
+   "slack_h": 4.48,
+   "status": "on_time",
+   "why": "4.5 h of cushion. Nothing to do yet."
+  },
+  "L-7153": {
+   "eta_h": 45.81,
+   "needs_break": true,
+   "slack_h": -1.68,
+   "status": "late",
+   "why": "Projected 1.7 h past the appointment once the required 10-hour break is counted. Call the receiver now and look for a recovery driver."
+  },
+  "L-7154": {
+   "eta_h": 19.02,
+   "needs_break": true,
+   "slack_h": 8.07,
+   "status": "on_time",
+   "why": "8.1 h of cushion. Nothing to do yet."
+  },
+  "L-7155": {
+   "eta_h": 18.68,
+   "needs_break": true,
+   "slack_h": 9.32,
+   "status": "on_time",
+   "why": "9.3 h of cushion. Nothing to do yet."
+  },
+  "L-7156": {
+   "eta_h": 25.98,
+   "needs_break": true,
+   "slack_h": 2.58,
+   "status": "on_time",
+   "why": "2.6 h of cushion. Nothing to do yet."
+  },
+  "L-7157": {
+   "eta_h": 42.23,
+   "needs_break": true,
+   "slack_h": 1.23,
+   "status": "at_risk",
+   "why": "Only 1.2 h of cushion with a 10-hour break in the plan. One slow stretch and it misses."
+  },
+  "L-7158": {
+   "eta_h": 39.24,
+   "needs_break": true,
+   "slack_h": 9.2,
+   "status": "on_time",
+   "why": "9.2 h of cushion. Nothing to do yet."
+  },
+  "L-7159": {
+   "eta_h": 37.7,
+   "needs_break": true,
+   "slack_h": 13.47,
+   "status": "on_time",
+   "why": "13.5 h of cushion. Nothing to do yet."
+  },
+  "L-7160": {
+   "eta_h": 17.27,
+   "needs_break": true,
+   "slack_h": 6.08,
+   "status": "on_time",
+   "why": "6.1 h of cushion. Nothing to do yet."
+  },
+  "L-7161": {
+   "eta_h": 37.92,
+   "needs_break": true,
+   "slack_h": -3.47,
+   "status": "late",
+   "why": "Projected 3.5 h past the appointment once the required 10-hour break is counted. Call the receiver now and look for a recovery driver."
+  },
+  "L-7162": {
+   "eta_h": 2.45,
+   "needs_break": false,
+   "slack_h": 7.7,
+   "status": "on_time",
+   "why": "7.7 h of cushion. Nothing to do yet."
+  },
+  "L-7163": {
+   "eta_h": 20.09,
+   "needs_break": true,
+   "slack_h": 13.8,
+   "status": "on_time",
+   "why": "13.8 h of cushion. Nothing to do yet."
+  },
+  "L-7164": {
+   "eta_h": 5.05,
+   "needs_break": false,
+   "slack_h": 0.7,
+   "status": "at_risk",
+   "why": "Only 0.7 h of cushion. One slow stretch and it misses."
+  },
+  "L-7165": {
+   "eta_h": 21.25,
+   "needs_break": true,
+   "slack_h": 1.78,
+   "status": "at_risk",
+   "why": "Only 1.8 h of cushion with a 10-hour break in the plan. One slow stretch and it misses."
+  },
+  "L-7166": {
+   "eta_h": 18.39,
+   "needs_break": true,
+   "slack_h": 2.94,
+   "status": "on_time",
+   "why": "2.9 h of cushion. Nothing to do yet."
+  },
+  "L-7167": {
+   "eta_h": 4.08,
+   "needs_break": false,
+   "slack_h": 3.83,
+   "status": "on_time",
+   "why": "3.8 h of cushion. Nothing to do yet."
+  },
+  "L-7168": {
+   "eta_h": 39.06,
+   "needs_break": true,
+   "slack_h": 6.12,
+   "status": "on_time",
+   "why": "6.1 h of cushion. Nothing to do yet."
+  },
+  "L-7169": {
+   "eta_h": 56.32,
+   "needs_break": true,
+   "slack_h": -2.49,
+   "status": "late",
+   "why": "Projected 2.5 h past the appointment once the required 10-hour break is counted. Call the receiver now and look for a recovery driver."
+  },
+  "L-7170": {
+   "eta_h": 38.41,
+   "needs_break": true,
+   "slack_h": 11.99,
+   "status": "on_time",
+   "why": "12.0 h of cushion. Nothing to do yet."
+  },
+  "L-7171": {
+   "eta_h": 38.51,
+   "needs_break": true,
+   "slack_h": 4.33,
+   "status": "on_time",
+   "why": "4.3 h of cushion. Nothing to do yet."
+  },
+  "L-7172": {
+   "eta_h": 17.51,
+   "needs_break": true,
+   "slack_h": 7.23,
+   "status": "on_time",
+   "why": "7.2 h of cushion. Nothing to do yet."
+  },
+  "L-7173": {
+   "eta_h": 19.94,
+   "needs_break": true,
+   "slack_h": 11.43,
+   "status": "on_time",
+   "why": "11.4 h of cushion. Nothing to do yet."
+  },
+  "L-7174": {
+   "eta_h": 46.44,
+   "needs_break": true,
+   "slack_h": -0.08,
+   "status": "late",
+   "why": "Projected 0.1 h past the appointment once the required 10-hour break is counted. Call the receiver now and look for a recovery driver."
+  },
+  "L-7175": {
+   "eta_h": 38.46,
+   "needs_break": true,
+   "slack_h": 12.21,
+   "status": "on_time",
+   "why": "12.2 h of cushion. Nothing to do yet."
+  },
+  "L-7176": {
+   "eta_h": 4.67,
+   "needs_break": false,
+   "slack_h": 1.62,
+   "status": "at_risk",
+   "why": "Only 1.6 h of cushion. One slow stretch and it misses."
+  },
+  "L-7177": {
+   "eta_h": 19.59,
+   "needs_break": true,
+   "slack_h": -3.57,
+   "status": "late",
+   "why": "Projected 3.6 h past the appointment once the required 10-hour break is counted. Call the receiver now and look for a recovery driver."
+  },
+  "L-7178": {
+   "eta_h": 32.8,
+   "needs_break": true,
+   "slack_h": 1.68,
+   "status": "at_risk",
+   "why": "Only 1.7 h of cushion with a 10-hour break in the plan. One slow stretch and it misses."
+  },
+  "L-7179": {
+   "eta_h": 21.43,
+   "needs_break": true,
+   "slack_h": 2.82,
+   "status": "on_time",
+   "why": "2.8 h of cushion. Nothing to do yet."
+  },
+  "L-7180": {
+   "eta_h": 39.59,
+   "needs_break": true,
+   "slack_h": 1.62,
+   "status": "at_risk",
+   "why": "Only 1.6 h of cushion with a 10-hour break in the plan. One slow stretch and it misses."
+  },
+  "L-7181": {
+   "eta_h": 41.65,
+   "needs_break": true,
+   "slack_h": 5.21,
+   "status": "on_time",
+   "why": "5.2 h of cushion. Nothing to do yet."
+  },
+  "L-7182": {
+   "eta_h": 19.96,
+   "needs_break": true,
+   "slack_h": 9.07,
+   "status": "on_time",
+   "why": "9.1 h of cushion. Nothing to do yet."
+  },
+  "L-7183": {
+   "eta_h": 39.23,
+   "needs_break": true,
+   "slack_h": 0.58,
+   "status": "at_risk",
+   "why": "Only 0.6 h of cushion with a 10-hour break in the plan. One slow stretch and it misses."
+  },
+  "L-7184": {
+   "eta_h": 18.75,
+   "needs_break": true,
+   "slack_h": 3.11,
+   "status": "on_time",
+   "why": "3.1 h of cushion. Nothing to do yet."
+  },
+  "L-7185": {
+   "eta_h": 39.19,
+   "needs_break": true,
+   "slack_h": 13.84,
+   "status": "on_time",
+   "why": "13.8 h of cushion. Nothing to do yet."
+  },
+  "L-7186": {
+   "eta_h": 45.41,
+   "needs_break": true,
+   "slack_h": 9.52,
+   "status": "on_time",
+   "why": "9.5 h of cushion. Nothing to do yet."
+  },
+  "L-7187": {
+   "eta_h": 22.24,
+   "needs_break": true,
+   "slack_h": 1.82,
+   "status": "at_risk",
+   "why": "Only 1.8 h of cushion with a 10-hour break in the plan. One slow stretch and it misses."
+  },
+  "L-7188": {
+   "eta_h": 45.21,
+   "needs_break": true,
+   "slack_h": -3.94,
+   "status": "late",
+   "why": "Projected 3.9 h past the appointment once the required 10-hour break is counted. Call the receiver now and look for a recovery driver."
+  },
+  "L-7189": {
+   "eta_h": 28.27,
+   "needs_break": true,
+   "slack_h": 3.67,
+   "status": "on_time",
+   "why": "3.7 h of cushion. Nothing to do yet."
+  },
+  "L-7190": {
+   "eta_h": 24.58,
+   "needs_break": true,
+   "slack_h": 0.57,
+   "status": "at_risk",
+   "why": "Only 0.6 h of cushion with a 10-hour break in the plan. One slow stretch and it misses."
+  },
+  "L-7191": {
+   "eta_h": 41.09,
+   "needs_break": true,
+   "slack_h": -3.07,
+   "status": "late",
+   "why": "Projected 3.1 h past the appointment once the required 10-hour break is counted. Call the receiver now and look for a recovery driver."
+  },
+  "L-7192": {
+   "eta_h": 42.96,
+   "needs_break": true,
+   "slack_h": 3.89,
+   "status": "on_time",
+   "why": "3.9 h of cushion. Nothing to do yet."
+  },
+  "L-7193": {
+   "eta_h": 41.7,
+   "needs_break": true,
+   "slack_h": 7.9,
+   "status": "on_time",
+   "why": "7.9 h of cushion. Nothing to do yet."
+  },
+  "L-7194": {
+   "eta_h": 6.92,
+   "needs_break": false,
+   "slack_h": -1.95,
+   "status": "late",
+   "why": "Projected 1.9 h past the appointment even before the required 10-hour break is counted. Call the receiver now and look for a recovery driver."
+  },
+  "L-7195": {
+   "eta_h": 3.75,
+   "needs_break": false,
+   "slack_h": 0.11,
+   "status": "at_risk",
+   "why": "Only 0.1 h of cushion. One slow stretch and it misses."
+  },
+  "L-7196": {
+   "eta_h": 23.6,
+   "needs_break": true,
+   "slack_h": 11.51,
+   "status": "on_time",
+   "why": "11.5 h of cushion. Nothing to do yet."
+  },
+  "L-7197": {
+   "eta_h": 39.8,
+   "needs_break": true,
+   "slack_h": 12.13,
+   "status": "on_time",
+   "why": "12.1 h of cushion. Nothing to do yet."
+  },
+  "L-7198": {
+   "eta_h": 10.1,
+   "needs_break": false,
+   "slack_h": 0.19,
+   "status": "at_risk",
+   "why": "Only 0.2 h of cushion. One slow stretch and it misses."
+  },
+  "L-7199": {
+   "eta_h": 4.79,
+   "needs_break": false,
+   "slack_h": -2.58,
+   "status": "late",
+   "why": "Projected 2.6 h past the appointment even before the required 10-hour break is counted. Call the receiver now and look for a recovery driver."
+  }
+ }
+}

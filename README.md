@@ -44,6 +44,36 @@ DRIFT — 24 changed, 0 added, 0 removed
 
 Twenty-four tickets moved. You changed one constant. That is the whole point.
 
+## A freight example: will this load make its appointment?
+
+The support-ticket demo shows the mechanics. This one is the problem the harness was
+built for. `examples/freight/` is a synthetic board of 200 truckloads in transit,
+checked at 2 AM: miles left, the driver's remaining hours of service, and the
+delivery appointment. For each load it answers the question a night dispatcher answers
+all shift: on time, at risk, or late, and the sentence explaining why. It uses the
+public hours-of-service limits (11 hours driving, then a 10-hour break).
+
+```
+python3 examples/freight/run.py      # 200 loads: 121 on time, 48 at risk, 31 late. NO DRIFT
+```
+
+Now make the at-risk threshold a little more cautious (`AT_RISK_SLACK_H` from 2.0 to 3.0
+hours in `examples/freight/board.py`) and run it again:
+
+```
+DRIFT — 12 changed, 0 added, 0 removed
+  L-7012
+     was: {'slack_h': 2.21, 'status': 'on_time', 'why': '2.2 h of cushion. Nothing to do yet.'}
+     now: {'slack_h': 2.21, 'status': 'at_risk', 'why': 'Only 2.2 h of cushion with a 10-hour break in the plan. One slow stretch and it misses.'}
+```
+
+Twelve loads that a dispatcher would have ignored now show up on the at-risk list.
+Whether that's the right call is a judgment about how the desk runs. The harness
+makes sure you see all twelve before you ship the change, instead of finding out from
+a receiver at 6 AM.
+
+All data in the example is synthetic. No carrier's loads, drivers, or customers are in this repo.
+
 ## The four things that make a run repeatable
 
 A harness is worthless if two runs of unchanged code disagree, so every source of
